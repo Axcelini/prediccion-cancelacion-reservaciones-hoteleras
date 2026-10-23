@@ -59,9 +59,3 @@ Hallazgo clave: balancear las clases benefició sobre todo al modelo lineal; los
 3. Ejecuta las celdas en orden.
 
 Dependencias: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`.
-
-## Equipo 3
-
-Francisco Aram Rodríguez García · Eliab Reyes Olvera · Viker Alberto Guajardo Díaz · Axcel Francisco Salazar Alejo ([@Axcelini](https://github.com/Axcelini))
-
-Docente: Frederik Timoteo Castillo Pedraza
