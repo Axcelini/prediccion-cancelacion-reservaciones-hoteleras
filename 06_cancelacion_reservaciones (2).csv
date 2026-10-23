@@ -1,0 +1,1001 @@
+id_reservacion,dias_anticipacion,tipo_hotel,canal_reservacion,tipo_deposito,adultos,menores,noches,tarifa_promedio_mxn,solicitudes_especiales,cambios_reservacion,cancelaciones_previas,temporada,reservacion_cancelada
+RES-0001,281,Ciudad,Agencia en línea,Reembolsable,3,2,13,650,5,0,0,Alta,0
+RES-0002,265,Resort,Agencia física,Sin depósito,3,0,9,2216.16,5,4,1,Alta,0
+RES-0003,333,Resort,Agencia física,Sin depósito,2,1,9,2964.6,1,0,0,Media,0
+RES-0004,169,Ciudad,Agencia física,No reembolsable,2,2,7,,0,3,3,Media,1
+RES-0005,319,Ciudad,Agencia en línea,No reembolsable,3,1,11,1436.58,0,3,0,Alta,0
+RES-0006,303,Ciudad,Empresa,No reembolsable,4,2,12,1473.64,1,0,1,Media,0
+RES-0007,365,Resort,Agencia en línea,Reembolsable,1,3,13,4660.91,3,0,0,Baja,0
+RES-0008,288,Ciudad,Empresa,No reembolsable,2,0,1,2604.44,0,4,0,Media,0
+RES-0009,187,Resort,Agencia física,Reembolsable,1,2,12,3660.71,1,3,1,Alta,0
+RES-0010,272,Ciudad,Agencia en línea,Sin depósito,4,3,7,1081.41,2,3,0,Baja,1
+RES-0011,250,Ciudad,Agencia física,No reembolsable,4,3,9,2244,0,1,0,Media,0
+RES-0012,155,Ciudad,Sitio web,Sin depósito,2,3,7,,4,1,0,Alta,1
+RES-0013,276,Ciudad,Agencia en línea,Reembolsable,1,2,14,1169.67,2,0,1,Alta,0
+RES-0014,40,Ciudad,Agencia en línea,No reembolsable,3,1,1,2766.28,0,0,1,Baja,0
+RES-0015,23,Ciudad,Empresa,Reembolsable,2,2,7,2222.04,3,1,1,Baja,0
+RES-0016,183,Resort,Empresa,Reembolsable,2,1,10,2117.73,1,3,0,Alta,0
+RES-0017,246,Ciudad,Empresa,No reembolsable,4,1,8,3643.98,1,4,0,Alta,0
+RES-0018,306,Resort,Agencia en línea,Reembolsable,3,2,2,2708.38,3,4,2,Media,1
+RES-0019,293,Resort,Sitio web,Reembolsable,1,1,9,4409.93,4,2,0,Alta,0
+RES-0020,154,Ciudad,Sitio web,Reembolsable,2,1,7,2488.46,5,3,0,Baja,0
+RES-0021,73,Ciudad,Agencia física,Sin depósito,4,1,4,1587.55,0,0,0,Alta,0
+RES-0022,105,Resort,Agencia en línea,No reembolsable,2,1,6,2589.6,0,1,0,Media,0
+RES-0023,229,Resort,Sitio web,No reembolsable,2,1,2,3895.51,2,1,2,Media,0
+RES-0024,170,Resort,Agencia física,Sin depósito,2,2,11,2431.29,5,1,1,Alta,0
+RES-0025,260,Resort,Empresa,No reembolsable,1,2,4,3371.18,0,4,0,Alta,0
+RES-0026,162,Resort,Agencia en línea,Sin depósito,2,3,13,3048.38,3,4,2,Baja,1
+RES-0027,268,Resort,Agencia en línea,Reembolsable,1,0,8,4615.55,3,0,1,Baja,0
+RES-0028,136,Ciudad,Agencia en línea,Reembolsable,2,0,5,2544.61,5,3,0,Alta,0
+RES-0029,190,Resort,Empresa,No reembolsable,2,2,5,3722.53,5,3,0,Alta,0
+RES-0030,252,Ciudad,Agencia física,No reembolsable,2,0,1,1758.52,3,4,0,Media,0
+RES-0031,156,Ciudad,Sitio web,Sin depósito,4,0,13,1897.45,5,1,0,Alta,0
+RES-0032,79,Resort,Sitio web,Reembolsable,4,3,4,3150.74,0,0,2,Alta,0
+RES-0033,278,Resort,EMPRESA,Reembolsable,3,2,11,4328.4,4,2,0,Media,0
+RES-0034,361,Resort,Agencia física,No reembolsable,4,2,14,4730.61,4,1,0,Baja,0
+RES-0035,0,Ciudad,sitio web,No reembolsable,1,2,1,1863.55,0,2,2,Media,0
+RES-0036,301,Resort,Empresa,Sin depósito,2,0,5,2689.21,4,1,1,Media,0
+RES-0037,259,Resort,Agencia en línea,Reembolsable,1,1,3,2110.89,5,0,1,Alta,0
+RES-0038,153,Resort,Agencia física,Reembolsable,4,2,10,3021.65,0,4,0,Alta,0
+RES-0039,35,Ciudad,Agencia física,No reembolsable,4,3,11,1268.97,0,0,1,Alta,0
+RES-0040,287,Resort,Agencia en línea,No reembolsable,4,1,13,4041.43,3,1,1,Alta,0
+RES-0041,8,Ciudad,Agencia en línea,No reembolsable,1,1,8,1967.22,0,3,0,Media,0
+RES-0042,265,Resort,Agencia en línea,No reembolsable,3,3,6,3537.82,1,2,0,Baja,0
+RES-0043,35,Resort,Sitio web,No reembolsable,2,2,4,3062.81,0,1,1,Baja,0
+RES-0044,95,Ciudad,Agencia en línea,Reembolsable,1,2,9,2151.53,2,3,2,Media,0
+RES-0045,154,Resort,Empresa,No reembolsable,1,2,11,4593.44,5,0,1,Baja,0
+RES-0046,192,Ciudad,Agencia física,Sin depósito,3,1,14,2080.34,4,4,2,Baja,1
+RES-0047,263,Resort,Agencia en línea,Reembolsable,3,1,3,3414.07,4,3,2,Baja,1
+RES-0048,253,Ciudad,Agencia en línea,Reembolsable,2,1,4,3642.99,4,3,0,Alta,0
+RES-0049,160,Resort,Sitio web,Reembolsable,4,0,3,,4,1,0,Alta,0
+RES-0050,114,Resort,Agencia física,Reembolsable,2,3,5,2468.16,2,3,1,Baja,0
+RES-0051,65,Ciudad,Agencia física,Reembolsable,1,2,4,2679.41,1,4,2,Alta,0
+RES-0052,40,Resort,Agencia física,Sin depósito,4,0,9,4293.73,3,1,0,Media,1
+RES-0053,330,Resort,Agencia física,Sin depósito,2,1,12,2891.98,4,2,0,Media,1
+RES-0054,326,Ciudad,Agencia en línea,Sin depósito,3,3,4,3097.01,4,2,1,Alta,0
+RES-0055,152,Resort,Empresa,Reembolsable,4,1,2,4528.97,2,1,0,Alta,0
+RES-0056,156,Ciudad,Agencia física,Sin depósito,2,1,3,1810.69,4,1,0,Alta,1
+RES-0057,347,Resort,Sitio web,Sin depósito,4,3,14,3999.39,5,1,0,Media,0
+RES-0058,41,Resort,Agencia física,Sin depósito,3,2,7,3082.41,1,2,0,Baja,0
+RES-0059,83,Ciudad,Sitio web,No reembolsable,3,0,4,3365.88,5,4,1,Media,0
+RES-0060,122,Resort,Empresa,Sin depósito,4,3,12,3202.51,1,0,2,Alta,1
+RES-0061,114,Ciudad,Agencia en línea,Sin depósito,1,3,3,1489.77,4,4,0,Media,0
+RES-0062,307,Ciudad,Empresa,Sin depósito,3,1,12,650,3,2,0,Media,0
+RES-0063,282,Ciudad,Agencia física,Reembolsable,2,0,2,650,1,2,1,Media,1
+RES-0064,260,Resort,Agencia física,No reembolsable,4,1,10,3299,0,1,1,Baja,0
+RES-0065,152,Resort,Agencia física,Sin depósito,4,2,7,4136.41,3,0,1,Alta,0
+RES-0066,276,Resort,Empresa,No reembolsable,3,3,10,3590.59,5,4,0,Media,0
+RES-0067,54,Ciudad,Sitio web,Reembolsable,4,3,1,2152,1,2,1,Alta,1
+RES-0068,244,Ciudad,Agencia física,Sin depósito,3,1,9,1714.1,4,4,0,Alta,0
+RES-0069,48,Ciudad,Sitio web,No reembolsable,3,0,3,650,0,4,2,Baja,1
+RES-0070,254,Resort,Empresa,Sin depósito,4,1,10,3306.98,2,1,0,Baja,0
+RES-0071,16,Ciudad,Sitio web,Reembolsable,1,3,3,1140.46,1,3,0,Media,0
+RES-0072,226,Resort,Empresa,Sin depósito,4,2,13,3572.25,5,3,1,Baja,1
+RES-0073,94,Resort,Sitio web,Sin depósito,3,0,12,1148.7,0,3,3,Alta,1
+RES-0074,202,Resort,Agencia en línea,Reembolsable,2,3,11,1566.38,3,1,0,Baja,0
+RES-0075,211,Resort,Agencia en línea,Reembolsable,1,2,7,2538.16,0,0,3,Media,1
+RES-0076,13,Ciudad,Agencia en línea,Reembolsable,2,3,7,1419.88,4,0,1,Media,0
+RES-0077,27,Ciudad,Sitio web,Reembolsable,4,2,8,3043.27,5,2,0,Alta,0
+RES-0078,15,Resort,Agencia en línea,Reembolsable,1,1,5,3157.43,3,2,1,Baja,0
+RES-0079,318,Resort,Agencia en línea,No reembolsable,4,1,13,5175.14,2,4,2,Alta,0
+RES-0080,278,Resort,Agencia en línea,Sin depósito,2,2,12,2261.48,3,3,0,Baja,1
+RES-0081,191,Resort,Agencia física,Sin depósito,3,3,13,3406.37,4,0,0,Baja,0
+RES-0082,285,Ciudad,Empresa,Sin depósito,1,0,9,1818.3,2,4,0,Baja,1
+RES-0083,361,Resort,Sitio web,Sin depósito,4,2,10,3420.58,2,2,1,Media,1
+RES-0084,6,Resort,Agencia en línea,Sin depósito,3,3,2,1346.44,3,0,1,Media,1
+RES-0085,311,Ciudad,Empresa,No reembolsable,3,0,8,1489.6,0,2,1,Media,1
+RES-0086,188,Ciudad,Agencia física,Reembolsable,1,2,10,3448.8,3,4,1,Baja,0
+RES-0087,92,Ciudad,Agencia en línea,Sin depósito,2,1,4,2374.08,3,4,0,Baja,1
+RES-0088,195,Ciudad,Agencia física,Sin depósito,3,3,14,2580.8,2,4,0,Baja,0
+RES-0089,900,Ciudad,Agencia en línea,No reembolsable,1,3,11,2565.42,0,2,0,Alta,0
+RES-0090,176,Ciudad,Agencia en línea,No reembolsable,1,3,3,1405.13,2,0,1,Baja,0
+RES-0091,35,Resort,Agencia física,No reembolsable,2,3,14,4474.96,1,3,2,Baja,0
+RES-0092,139,Ciudad,Agencia en línea,Reembolsable,1,0,8,,0,0,1,Baja,1
+RES-0093,262,Ciudad,Sitio web,Sin depósito,1,0,3,2471.13,0,2,3,Media,0
+RES-0094,56,Resort,Sitio web,Reembolsable,1,2,9,2844.38,1,4,3,Media,1
+RES-0095,333,Resort,Agencia física,Sin depósito,4,0,4,3782.37,1,4,0,Media,0
+RES-0096,162,Resort,Sitio web,Reembolsable,2,0,10,2690.19,4,4,0,Media,0
+RES-0097,355,Resort,Agencia en línea,Sin depósito,3,0,13,2860.22,4,2,1,Baja,0
+RES-0098,328,Resort,Sitio web,Sin depósito,4,2,11,3654.7,2,1,1,Baja,0
+RES-0099,225,Resort,Agencia en línea,No reembolsable,4,2,11,650,4,3,0,Media,0
+RES-0100,247,Resort,Sitio web,No reembolsable,1,2,9,4455.82,0,2,2,Media,0
+RES-0101,308,Ciudad,Sitio web,No reembolsable,2,2,10,1026.19,1,4,1,Baja,0
+RES-0102,122,Ciudad,Sitio web,Reembolsable,2,0,3,2391,4,1,2,Media,0
+RES-0103,326,Resort,Agencia física,Reembolsable,3,1,3,4217.39,1,2,2,Media,0
+RES-0104,175,Resort,Empresa,Reembolsable,4,2,10,2521.94,1,1,1,Baja,1
+RES-0105,231,Ciudad,Agencia física,No reembolsable,2,2,1,2169.58,4,1,1,Baja,0
+RES-0106,140,Resort,Empresa,Reembolsable,2,1,10,2727.12,3,1,0,Baja,0
+RES-0107,97,Resort,Sitio web,No reembolsable,3,2,11,3587.66,3,1,0,Media,0
+RES-0108,331,Ciudad,Sitio web,Reembolsable,3,2,3,1806.74,1,3,0,Media,1
+RES-0109,181,Resort,Agencia en línea,Reembolsable,1,1,11,2421.71,2,2,2,Media,1
+RES-0110,94,Ciudad,Sitio web,No reembolsable,1,0,5,650,2,4,3,Baja,0
+RES-0111,194,Resort,Empresa,No reembolsable,4,1,2,1886.45,1,2,0,Alta,0
+RES-0112,199,Ciudad,Agencia física,No reembolsable,2,0,10,2501.43,1,1,0,Media,0
+RES-0113,197,Resort,Empresa,Sin depósito,2,0,1,4501.71,4,4,0,Baja,0
+RES-0114,350,Resort,Sitio web,Sin depósito,4,1,5,2375.5,0,0,0,Media,0
+RES-0115,56,Ciudad,Agencia física,Sin depósito,2,2,12,1216.03,0,1,0,Alta,0
+RES-0116,84,Resort,Agencia física,Sin depósito,2,1,9,4077.68,4,4,0,Baja,1
+RES-0117,9,Resort,Agencia en línea,Reembolsable,2,0,10,2014.69,0,2,0,Alta,0
+RES-0118,362,Ciudad,Agencia física,Sin depósito,2,3,3,2219.28,1,0,2,Media,0
+RES-0119,258,Resort,Agencia en línea,Reembolsable,1,0,12,2170.23,0,3,0,Baja,1
+RES-0120,356,Ciudad,Agencia física,No reembolsable,2,1,13,760.94,1,0,0,Media,0
+RES-0121,259,Ciudad,Empresa,No reembolsable,3,1,4,2269.42,5,3,0,Alta,0
+RES-0122,131,Ciudad,EMPRESA,No reembolsable,1,3,10,2726.72,0,3,1,Alta,0
+RES-0123,16,Ciudad,Agencia física,Sin depósito,4,3,2,3159.82,1,3,0,Alta,0
+RES-0124,43,Resort,Sitio web,Reembolsable,1,0,4,5242.51,5,0,1,Media,0
+RES-0125,240,Resort,Agencia física,Reembolsable,3,2,3,3912.57,3,3,1,Baja,0
+RES-0126,22,Ciudad,Agencia en línea,Sin depósito,4,3,5,2166.35,5,3,0,Baja,1
+RES-0127,157,Ciudad,sitio web,No reembolsable,4,2,10,2498.02,2,3,1,Alta,1
+RES-0128,53,Resort,Sitio web,No reembolsable,3,1,12,4123.41,4,2,2,Baja,0
+RES-0129,113,Resort,Sitio web,Sin depósito,1,1,1,4346.54,0,3,2,Alta,0
+RES-0130,171,Ciudad,Agencia física,Reembolsable,3,3,12,2689.82,0,3,0,Baja,0
+RES-0131,113,Ciudad,Empresa,Reembolsable,2,3,4,2304.27,1,0,0,Media,0
+RES-0132,49,Ciudad,Agencia física,Reembolsable,3,1,13,3421.2,4,1,0,Media,0
+RES-0133,224,Resort,Sitio web,Sin depósito,3,0,8,4533.26,4,2,1,Baja,0
+RES-0134,128,Resort,Agencia en línea,Sin depósito,1,2,1,1714.22,2,1,1,Alta,1
+RES-0135,291,Ciudad,Sitio web,Sin depósito,1,1,5,1085.83,5,1,1,Alta,1
+RES-0136,103,Ciudad,Sitio web,Sin depósito,4,3,11,2280.03,4,2,2,Baja,0
+RES-0137,71,Resort,Agencia física,Sin depósito,2,3,7,2594.81,4,3,1,Media,1
+RES-0138,178,Resort,Empresa,Sin depósito,4,2,4,3790.08,3,4,2,Media,0
+RES-0139,241,Ciudad,Agencia física,No reembolsable,2,3,7,2588.5,1,1,2,Alta,0
+RES-0140,252,Resort,Agencia en línea,No reembolsable,1,3,10,2899.74,2,3,2,Media,0
+RES-0141,32,Ciudad,Empresa,Sin depósito,3,2,8,1009.73,2,4,0,Media,0
+RES-0142,46,Resort,Sitio web,Reembolsable,4,3,9,2274.19,4,3,0,Baja,0
+RES-0143,186,Ciudad,Agencia física,Sin depósito,4,2,12,1891.94,5,0,0,Alta,0
+RES-0144,208,Ciudad,Sitio web,Sin depósito,1,1,3,1946.63,5,3,0,Alta,0
+RES-0145,245,Ciudad,Sitio web,Reembolsable,4,2,9,3140.9,3,2,2,Alta,0
+RES-0146,329,Resort,Agencia física,Sin depósito,3,0,9,2648.71,4,0,2,Alta,1
+RES-0147,116,Ciudad,Agencia en línea,Sin depósito,3,0,11,1905.89,3,3,2,Media,1
+RES-0148,32,Resort,Empresa,Sin depósito,4,3,9,3271.65,2,2,0,Media,0
+RES-0149,255,Ciudad,Agencia en línea,Reembolsable,2,2,1,3204.22,3,1,0,Baja,1
+RES-0150,316,Resort,Agencia física,No reembolsable,4,3,12,2984.51,4,2,0,Alta,0
+RES-0151,152,Ciudad,Agencia física,Sin depósito,4,1,3,2870.02,5,0,1,Alta,0
+RES-0152,175,Resort,Empresa,No reembolsable,4,3,13,3586.87,0,1,0,Alta,0
+RES-0153,190,Ciudad,Agencia física,No reembolsable,2,3,9,1427.38,2,0,0,Media,0
+RES-0154,161,Resort,Empresa,Reembolsable,4,1,7,3381.77,5,0,1,Baja,1
+RES-0155,351,Resort,Agencia física,Reembolsable,2,0,1,1900.66,4,3,0,Media,0
+RES-0156,245,Resort,Agencia física,No reembolsable,1,2,1,2007.78,5,4,0,Media,0
+RES-0157,328,Resort,Sitio web,Reembolsable,3,0,13,3210.6,0,0,2,Baja,1
+RES-0158,25,Resort,Sitio web,Sin depósito,1,1,4,2136.31,4,3,0,Media,0
+RES-0159,182,Ciudad,Sitio web,Reembolsable,1,3,5,3025.61,5,3,1,Alta,0
+RES-0160,355,Resort,Empresa,Reembolsable,1,1,5,4916.27,5,1,0,Baja,1
+RES-0161,66,Resort,Agencia física,Reembolsable,2,0,8,1934.02,4,1,1,Baja,0
+RES-0162,282,Ciudad,Agencia física,No reembolsable,3,2,6,650,2,4,0,Baja,0
+RES-0163,151,Ciudad,Agencia física,Reembolsable,2,2,14,2810.42,0,3,1,Alta,0
+RES-0164,199,Ciudad,Agencia física,Reembolsable,3,2,13,2090.63,2,2,1,Media,0
+RES-0165,279,Resort,Empresa,Reembolsable,2,3,14,2931.97,3,2,0,Baja,0
+RES-0166,363,Ciudad,Sitio web,No reembolsable,2,3,13,1906.74,2,2,0,Media,0
+RES-0167,136,Ciudad,Agencia física,Reembolsable,1,1,3,2034.64,5,4,1,Alta,0
+RES-0168,261,Resort,Agencia física,No reembolsable,3,2,8,2628.4,0,4,0,Baja,0
+RES-0169,7,Resort,Empresa,Reembolsable,4,3,3,2665.78,0,4,2,Media,0
+RES-0170,134,Ciudad,Empresa,No reembolsable,1,2,9,3683.26,1,0,1,Baja,0
+RES-0171,25,Resort,Empresa,No reembolsable,2,2,4,2682.12,5,1,1,Alta,0
+RES-0172,126,Resort,Sitio web,Reembolsable,2,3,12,2602.89,4,3,0,Baja,0
+RES-0173,72,Resort,Sitio web,Sin depósito,1,1,6,2170.35,5,4,0,Media,0
+RES-0174,112,Resort,Agencia en línea,Sin depósito,4,2,5,3226.91,3,3,0,Baja,0
+RES-0175,316,Resort,Agencia en línea,No reembolsable,4,0,6,2771.19,4,3,0,Media,0
+RES-0176,308,Ciudad,Sitio web,Sin depósito,2,0,5,1194.28,4,3,0,Alta,1
+RES-0177,346,Ciudad,Empresa,Reembolsable,4,2,8,3242.8,1,2,1,Alta,0
+RES-0178,187,Resort,Agencia en línea,No reembolsable,1,3,7,2620.17,4,0,2,Media,1
+RES-0179,50,Resort,Sitio web,Reembolsable,3,2,5,4714.96,1,0,0,Media,0
+RES-0180,187,Ciudad,Agencia física,Reembolsable,2,0,2,1558.28,2,3,1,Alta,1
+RES-0181,160,Resort,Agencia física,No reembolsable,4,1,1,2426.66,4,1,0,Alta,0
+RES-0182,319,Ciudad,Agencia en línea,No reembolsable,1,1,1,2223.6,3,4,0,Alta,0
+RES-0183,156,Ciudad,Empresa,Sin depósito,1,0,6,1624.22,0,4,1,Alta,1
+RES-0184,108,Ciudad,Sitio web,No reembolsable,2,1,4,1321.85,4,0,2,Alta,0
+RES-0185,116,Resort,Empresa,Sin depósito,3,0,6,4110.38,0,3,2,Media,0
+RES-0186,114,Ciudad,Sitio web,Sin depósito,1,2,2,2906.31,3,1,0,Alta,0
+RES-0187,258,Ciudad,Agencia en línea,No reembolsable,1,2,4,2155.64,2,2,0,Media,0
+RES-0188,61,Resort,Agencia en línea,Sin depósito,3,1,10,2081.93,3,3,0,Media,0
+RES-0189,320,Resort,Sitio web,Sin depósito,3,1,8,3659.87,4,2,1,Alta,0
+RES-0190,198,Ciudad,Empresa,Reembolsable,2,1,13,3030.4,3,4,0,Baja,1
+RES-0191,124,Resort,Agencia en línea,Reembolsable,3,2,10,2945.98,4,3,0,Baja,0
+RES-0192,256,Resort,Empresa,Sin depósito,1,1,9,5029.8,3,2,1,Media,0
+RES-0193,68,Resort,Empresa,No reembolsable,1,3,9,4427.24,5,1,0,Alta,0
+RES-0194,293,Resort,Sitio web,Reembolsable,1,2,11,1454.2,3,2,0,Media,0
+RES-0195,219,Resort,Agencia física,Reembolsable,3,2,4,1926.12,3,2,1,Baja,1
+RES-0196,196,Ciudad,Sitio web,Sin depósito,2,1,13,650,2,3,0,Baja,0
+RES-0197,68,Ciudad,Empresa,No reembolsable,1,0,5,1548.44,3,3,1,Media,0
+RES-0198,14,Resort,Agencia en línea,Sin depósito,3,0,11,5016.49,1,4,0,Media,0
+RES-0199,273,Ciudad,Agencia física,Reembolsable,2,0,12,840.12,2,0,3,Media,0
+RES-0200,306,Resort,Agencia física,Sin depósito,2,0,11,2835.6,1,4,1,Media,0
+RES-0201,301,Resort,Empresa,No reembolsable,2,3,5,2974.13,5,0,0,Baja,0
+RES-0202,37,Resort,Sitio web,No reembolsable,2,2,1,3765.57,2,3,2,Media,0
+RES-0203,28,Ciudad,Agencia física,Sin depósito,4,0,11,2603.51,2,0,1,Alta,0
+RES-0204,337,Resort,Agencia en línea,No reembolsable,4,3,5,2298.37,0,2,2,Media,1
+RES-0205,292,Ciudad,Agencia en línea,Reembolsable,4,0,6,1832.61,1,2,0,Baja,0
+RES-0206,330,Resort,Agencia en línea,Sin depósito,3,1,12,2940.29,3,4,0,Alta,0
+RES-0207,174,Resort,Empresa,Sin depósito,4,1,1,2515.57,1,4,1,Alta,0
+RES-0208,237,Ciudad,Agencia física,No reembolsable,3,3,5,2663.14,4,0,1,Alta,0
+RES-0209,211,Resort,Agencia física,Sin depósito,4,3,6,3013.38,1,2,1,Alta,0
+RES-0210,233,Resort,Empresa,No reembolsable,2,3,13,3426.1,1,4,0,Baja,0
+RES-0211,111,Ciudad,Empresa,No reembolsable,4,2,3,1056.27,4,0,1,Media,0
+RES-0212,98,Ciudad,Empresa,Sin depósito,3,1,4,3581.18,4,1,1,Media,0
+RES-0213,227,Ciudad,Empresa,Sin depósito,3,1,9,1742.86,0,2,0,Baja,0
+RES-0214,176,Ciudad,Empresa,No reembolsable,2,2,4,650,2,0,1,Alta,0
+RES-0215,260,Ciudad,Empresa,Sin depósito,4,0,14,650,4,2,3,Alta,0
+RES-0216,300,Ciudad,Agencia en línea,Sin depósito,1,2,9,1527.73,2,3,0,Baja,0
+RES-0217,15,Resort,Empresa,Sin depósito,3,0,11,2542.94,1,4,0,Alta,0
+RES-0218,152,Resort,Agencia en línea,Sin depósito,2,3,14,2510.22,5,4,0,Alta,0
+RES-0219,249,Ciudad,Agencia física,No reembolsable,4,1,5,2995.84,3,1,1,Media,0
+RES-0220,97,Ciudad,Empresa,Sin depósito,4,0,6,1734.26,2,0,1,Baja,1
+RES-0221,52,Ciudad,Empresa,Reembolsable,3,2,6,3391.34,1,3,0,Media,0
+RES-0222,2,Resort,Agencia física,Sin depósito,4,3,2,3420.02,2,4,0,Alta,0
+RES-0223,160,Ciudad,Empresa,No reembolsable,2,2,14,1756.57,4,2,0,Media,0
+RES-0224,342,Ciudad,Empresa,Reembolsable,2,0,14,1389.8,5,3,0,Alta,1
+RES-0225,197,Resort,Empresa,Reembolsable,1,2,7,4809.72,2,4,0,Baja,1
+RES-0226,140,Resort,Agencia en línea,Sin depósito,4,1,7,975.46,2,2,0,Media,1
+RES-0227,348,Resort,Sitio web,Reembolsable,4,0,6,1414.43,2,2,1,Media,1
+RES-0228,9,Resort,Agencia en línea,Sin depósito,2,1,1,4428.1,4,0,0,Alta,0
+RES-0229,295,Ciudad,Agencia en línea,No reembolsable,3,0,10,1933.89,2,2,1,Alta,0
+RES-0230,258,Resort,Agencia en línea,Reembolsable,3,0,11,3726.67,3,3,2,Media,1
+RES-0231,266,Ciudad,Sitio web,No reembolsable,4,2,3,665.14,4,1,1,Baja,0
+RES-0232,59,Ciudad,Empresa,Sin depósito,3,2,13,2070.36,0,1,0,Media,0
+RES-0233,328,Ciudad,Agencia en línea,Reembolsable,3,3,3,3800.78,4,3,0,Alta,0
+RES-0234,303,Ciudad,Empresa,Sin depósito,0,0,12,,0,3,2,Alta,0
+RES-0235,47,Ciudad,Agencia en línea,No reembolsable,1,2,9,2405.53,2,0,0,Alta,0
+RES-0236,114,Ciudad,Sitio web,Sin depósito,2,3,8,2188.23,2,0,1,Baja,1
+RES-0237,257,Ciudad,Empresa,Reembolsable,4,1,2,1156.16,3,1,2,Baja,1
+RES-0238,4,Ciudad,Sitio web,Sin depósito,4,0,12,1867.31,2,2,1,Baja,0
+RES-0239,303,Resort,Agencia física,Reembolsable,1,3,12,3185.52,3,4,1,Media,0
+RES-0240,195,Resort,Sitio web,Reembolsable,1,1,2,4215.62,0,2,1,Baja,0
+RES-0241,206,Resort,sitio web,Sin depósito,4,2,7,4034.6,4,3,0,Media,0
+RES-0242,81,Ciudad,Empresa,No reembolsable,3,2,10,1443.41,1,3,1,Baja,0
+RES-0243,195,Resort,Sitio web,Reembolsable,1,2,6,1558.28,4,2,0,Alta,0
+RES-0244,155,Ciudad,Agencia física,Sin depósito,3,1,7,2141.62,4,1,0,Baja,0
+RES-0245,232,Ciudad,Agencia física,Sin depósito,2,2,14,1443.32,3,3,2,Baja,1
+RES-0246,326,Resort,Agencia en línea,No reembolsable,2,0,7,2892.49,1,1,0,Baja,0
+RES-0247,36,Resort,Agencia en línea,Reembolsable,3,3,1,4250.88,4,1,1,Alta,0
+RES-0248,10,Ciudad,Agencia en línea,Sin depósito,1,2,8,2390.67,3,4,2,Baja,1
+RES-0249,344,Ciudad,Agencia en línea,Reembolsable,3,1,14,1227.79,5,2,0,Baja,0
+RES-0250,354,Ciudad,Sitio web,Reembolsable,1,1,6,1300.06,2,0,0,Media,0
+RES-0251,356,Ciudad,Sitio web,Reembolsable,4,3,8,894.19,4,2,0,Media,0
+RES-0252,338,Resort,Empresa,Reembolsable,1,2,3,3051.45,2,4,0,Media,0
+RES-0253,211,Ciudad,Agencia física,No reembolsable,2,3,10,2714.31,3,0,0,Alta,0
+RES-0254,263,Ciudad,Agencia física,Sin depósito,3,1,6,3693.19,4,4,2,Alta,1
+RES-0255,287,Ciudad,Empresa,Reembolsable,2,0,13,3612.36,0,1,1,Alta,0
+RES-0256,182,Ciudad,Empresa,No reembolsable,1,2,2,650,2,0,0,Baja,0
+RES-0257,92,Ciudad,Agencia en línea,Sin depósito,2,2,2,1182.4,0,0,1,Media,0
+RES-0258,282,Resort,Empresa,No reembolsable,2,3,13,3413.1,3,3,0,Baja,0
+RES-0259,315,Ciudad,Agencia física,Reembolsable,3,0,1,1005.53,1,2,2,Alta,0
+RES-0260,17,Resort,Agencia física,No reembolsable,1,1,14,2492.52,0,4,1,Baja,0
+RES-0261,242,Resort,Agencia en línea,No reembolsable,4,3,11,3463.77,3,2,0,Media,1
+RES-0262,332,Ciudad,Sitio web,No reembolsable,4,0,13,3136.34,5,4,0,Baja,0
+RES-0263,105,Ciudad,Agencia física,No reembolsable,1,1,14,923.91,0,4,0,Media,0
+RES-0264,356,Ciudad,Sitio web,Reembolsable,1,1,5,2646.92,5,1,1,Media,0
+RES-0265,290,Resort,Agencia en línea,No reembolsable,2,0,12,3105.71,3,0,0,Media,0
+RES-0266,78,Resort,Agencia en línea ,Reembolsable,3,1,7,1993.93,4,1,3,Baja,1
+RES-0267,278,Resort,Empresa,Reembolsable,2,2,14,4002.76,1,1,2,Media,1
+RES-0268,358,Ciudad,Sitio web,Reembolsable,3,3,12,1287.31,5,0,1,Baja,1
+RES-0269,278,Ciudad,Empresa,Reembolsable,2,1,14,1413.44,2,2,1,Media,0
+RES-0270,273,Resort,Empresa,No reembolsable,4,3,1,3207.62,5,3,0,Media,1
+RES-0271,245,Resort,Agencia física,Sin depósito,1,2,2,2356.54,3,1,0,Alta,0
+RES-0272,235,Ciudad,Empresa,No reembolsable,1,2,14,1342.69,3,2,0,Media,0
+RES-0273,72,Resort,Empresa,Sin depósito,1,2,5,2336.18,4,4,1,Media,0
+RES-0274,167,Ciudad,Agencia física,Sin depósito,2,2,1,2737.57,3,4,1,Alta,1
+RES-0275,345,Resort,Agencia en línea,Sin depósito,3,1,5,4092.06,2,3,0,Alta,1
+RES-0276,67,Ciudad,Agencia física,Sin depósito,2,0,6,1709.16,5,1,0,Media,0
+RES-0277,48,Resort,Agencia física,Reembolsable,1,1,8,3209.11,4,2,0,Media,0
+RES-0278,149,Resort,Empresa,Reembolsable,1,1,11,4291.13,5,3,0,Alta,0
+RES-0279,142,Ciudad,Agencia física,No reembolsable,2,3,12,3217.73,3,0,0,Media,0
+RES-0280,283,Ciudad,Agencia física,Sin depósito,4,0,4,2386.16,4,0,0,Media,0
+RES-0281,95,Resort,Empresa,Sin depósito,3,2,1,4376.48,3,3,0,Baja,1
+RES-0282,34,Resort,Agencia en línea,No reembolsable,4,2,7,3926.19,3,1,0,Media,0
+RES-0283,143,Ciudad,Sitio web,No reembolsable,4,3,8,2377.68,4,1,2,Alta,0
+RES-0284,214,Resort,Agencia física,Sin depósito,1,1,9,4449.96,0,1,2,Media,1
+RES-0285,95,Resort,Empresa,Sin depósito,4,0,11,4366.4,2,0,0,Media,0
+RES-0286,201,Ciudad,Agencia en línea,Reembolsable,2,1,1,,0,1,1,Media,0
+RES-0287,237,Ciudad,Empresa,No reembolsable,4,3,1,1691.75,0,3,0,Baja,0
+RES-0288,16,Ciudad,Empresa,No reembolsable,3,1,11,1399.4,1,1,0,Alta,0
+RES-0289,351,Resort,Sitio web,No reembolsable,2,0,2,2434.8,1,4,2,Baja,0
+RES-0290,350,Resort,Sitio web,No reembolsable,3,0,14,3044.35,1,3,0,Baja,0
+RES-0291,14,Ciudad,Sitio web,No reembolsable,2,0,11,1117.36,3,3,1,Media,0
+RES-0292,284,Resort,Agencia en línea,Sin depósito,1,0,5,1715.56,1,4,1,Baja,0
+RES-0293,153,Resort,Agencia física,Reembolsable,2,3,7,3382.09,5,4,0,Media,0
+RES-0294,179,Resort,EMPRESA,No reembolsable,3,0,7,4240.79,3,0,0,Alta,0
+RES-0295,329,Resort,Agencia física,No reembolsable,4,1,5,2804.59,2,4,2,Media,0
+RES-0296,328,Resort,Agencia en línea,Sin depósito,4,3,14,2663.03,0,3,1,Alta,0
+RES-0297,137,Resort,Agencia en línea,Reembolsable,1,1,4,2980.78,0,2,1,Alta,0
+RES-0298,59,Resort,Agencia física,Reembolsable,2,2,12,3378.84,3,1,2,Media,0
+RES-0299,142,Resort,Agencia en línea,Reembolsable,3,1,8,4366.94,1,0,2,Media,0
+RES-0300,196,Ciudad,Agencia física,Sin depósito,4,2,2,2340.86,5,3,0,Baja,0
+RES-0301,47,Resort,Sitio web,No reembolsable,3,0,5,2643.75,5,3,1,Media,0
+RES-0302,11,Resort,Agencia en línea,No reembolsable,3,0,14,3290.23,2,1,0,Media,0
+RES-0303,298,Ciudad,Agencia en línea,No reembolsable,1,3,11,1817.52,3,0,0,Media,0
+RES-0304,206,Ciudad,Sitio web,No reembolsable,4,2,1,1284.67,0,2,0,Baja,1
+RES-0305,347,Ciudad,Empresa,No reembolsable,2,0,12,3024.66,3,4,0,Media,0
+RES-0306,169,Ciudad,Sitio web,No reembolsable,4,1,12,1064.97,1,3,0,Alta,0
+RES-0307,253,Resort,Sitio web,No reembolsable,2,1,13,2641.68,0,2,0,Alta,0
+RES-0308,180,Resort,Empresa,Reembolsable,3,3,2,2906.45,4,1,0,Baja,0
+RES-0309,130,Resort,Agencia física,Reembolsable,4,0,14,1979.66,0,0,0,Alta,0
+RES-0310,139,Ciudad,Empresa,Sin depósito,4,1,3,1335.12,0,2,0,Baja,0
+RES-0311,323,Resort,Agencia en línea,No reembolsable,4,3,1,4314.58,3,2,1,Media,0
+RES-0312,289,Ciudad,Sitio web,Sin depósito,4,3,3,3931.46,5,3,1,Alta,0
+RES-0313,268,Ciudad,Empresa,Reembolsable,1,0,8,1296.61,3,1,0,Alta,0
+RES-0314,83,Resort,Empresa,Sin depósito,3,0,7,3071.23,2,3,1,Media,0
+RES-0315,216,Resort,Agencia en línea,Reembolsable,3,1,2,2719.61,5,2,0,Baja,0
+RES-0316,68,Resort,Agencia física,Sin depósito,1,2,11,4076.18,1,2,0,Media,0
+RES-0317,242,Ciudad,Agencia en línea,No reembolsable,4,1,7,1397.7,0,2,0,Media,0
+RES-0318,133,Resort,Sitio web,Sin depósito,4,2,8,3595.53,1,1,0,Alta,1
+RES-0319,242,Ciudad,Agencia en línea,Sin depósito,4,2,3,1367.52,3,2,1,Media,0
+RES-0320,216,Resort,Agencia en línea,No reembolsable,2,1,7,2856.46,2,1,0,Alta,0
+RES-0321,364,Resort,Agencia en línea,Sin depósito,4,1,3,3042.61,5,2,2,Alta,0
+RES-0322,347,Ciudad,Sitio web,No reembolsable,1,1,13,2609.16,4,0,2,Baja,0
+RES-0323,224,Ciudad,Empresa,No reembolsable,4,3,9,2088.73,0,0,0,Baja,0
+RES-0324,238,Ciudad,Agencia física,Sin depósito,2,2,9,3261.27,3,4,2,Media,1
+RES-0325,246,Ciudad,Empresa,Sin depósito,3,0,12,1982.93,0,1,0,Alta,0
+RES-0326,174,Resort,Sitio web,No reembolsable,1,0,6,4132,0,2,1,Baja,0
+RES-0327,3,Resort,Agencia en línea,Reembolsable,3,0,13,3112.22,4,3,2,Media,0
+RES-0328,125,Ciudad,Agencia física,Sin depósito,2,2,6,,0,4,2,Baja,1
+RES-0329,214,Resort,Sitio web,No reembolsable,1,0,12,3602.13,1,2,1,Media,1
+RES-0330,168,Resort,Empresa,No reembolsable,2,2,8,1971.67,4,1,0,Baja,0
+RES-0331,42,Resort,Agencia en línea,No reembolsable,2,2,14,2736.78,1,3,0,Media,0
+RES-0332,39,Resort,Sitio web,Sin depósito,4,1,8,2724.2,3,2,0,Media,0
+RES-0333,355,Ciudad,Agencia física,Sin depósito,3,1,6,2072.51,3,2,0,Media,0
+RES-0334,346,Ciudad,Empresa,No reembolsable,2,0,5,1427.05,4,0,0,Baja,0
+RES-0335,334,Resort,Agencia en línea,Sin depósito,1,0,1,4255.6,1,4,0,Alta,1
+RES-0336,149,Ciudad,Agencia física,Sin depósito,1,3,8,2459.57,1,4,0,Baja,0
+RES-0337,38,Ciudad,Agencia en línea,No reembolsable,2,3,5,2207.02,4,3,1,Media,1
+RES-0338,296,Resort,Sitio web,Sin depósito,2,2,5,4510.75,1,3,1,Media,1
+RES-0339,336,Resort,Sitio web,No reembolsable,4,1,13,2671.74,0,3,1,Baja,1
+RES-0340,278,Resort,Sitio web,No reembolsable,2,3,13,4813.06,0,0,0,Baja,0
+RES-0341,117,Ciudad,Empresa,Reembolsable,2,3,14,2137.26,4,2,0,Media,0
+RES-0342,14,Resort,Agencia física,Sin depósito,1,3,12,2407.94,3,1,1,Baja,1
+RES-0343,151,Resort,Sitio web,No reembolsable,3,1,11,3865.45,1,4,1,Media,0
+RES-0344,209,Ciudad,Sitio web,No reembolsable,3,0,5,878.02,2,4,1,Media,0
+RES-0345,230,Ciudad,Agencia física,No reembolsable,4,3,7,3056.14,5,3,2,Alta,0
+RES-0346,170,Ciudad,Agencia física,Sin depósito,1,0,9,1775.29,1,0,1,Baja,0
+RES-0347,361,Resort,Agencia en línea,Sin depósito,3,2,12,2460.02,5,3,1,Baja,1
+RES-0348,136,Ciudad,Agencia física,Reembolsable,2,1,5,1955.86,5,4,1,Alta,0
+RES-0349,152,Resort,Empresa,Sin depósito,2,0,10,4605.47,2,4,0,Baja,0
+RES-0350,237,Ciudad,Agencia en línea,No reembolsable,4,0,1,2207.4,1,4,3,Baja,0
+RES-0351,203,Resort,Agencia física,No reembolsable,3,2,1,2857.57,0,4,0,Alta,0
+RES-0352,98,Resort,EMPRESA,Sin depósito,1,2,4,3715.67,1,1,1,Baja,0
+RES-0353,166,Ciudad,Sitio web,No reembolsable,2,3,2,3735.74,2,4,1,Baja,0
+RES-0354,24,Resort,Agencia en línea,Reembolsable,4,0,1,3230.56,3,1,0,Alta,0
+RES-0355,212,Ciudad,Sitio web,Sin depósito,1,3,11,3881.77,2,3,0,Alta,1
+RES-0356,176,Resort,Empresa,Reembolsable,2,3,8,1802.7,1,2,1,Baja,0
+RES-0357,15,Ciudad,Agencia en línea,Reembolsable,1,0,5,1307.02,3,2,2,Baja,1
+RES-0358,71,Resort,Agencia en línea,Reembolsable,2,1,4,3698.71,5,2,1,Alta,0
+RES-0359,298,Ciudad,Agencia física,No reembolsable,3,2,6,2226.45,5,2,0,Alta,0
+RES-0360,290,Resort,Sitio web,No reembolsable,4,1,13,3012.18,1,2,1,Alta,0
+RES-0361,265,Resort,sitio web,No reembolsable,1,0,7,3551.4,0,4,1,Media,1
+RES-0362,207,Resort,Empresa,Sin depósito,2,2,5,4109.66,4,0,1,Media,0
+RES-0363,98,Resort,Sitio web,Sin depósito,1,3,7,3289.61,1,0,1,Media,0
+RES-0364,358,Ciudad,Empresa,Sin depósito,2,1,11,2266.3,4,2,1,Baja,0
+RES-0365,61,Resort,Agencia física,Sin depósito,2,3,5,3385.88,2,4,1,Baja,0
+RES-0366,123,Ciudad,Agencia física,Reembolsable,2,0,4,1926.27,5,3,0,Baja,0
+RES-0367,337,Ciudad,Empresa,Reembolsable,2,1,3,1260.22,1,3,0,Alta,1
+RES-0368,354,Resort,Agencia en línea,Sin depósito,4,3,13,2745.05,3,4,1,Alta,1
+RES-0369,93,Ciudad,Agencia en línea,Sin depósito,2,2,9,961.93,4,1,0,Media,0
+RES-0370,198,Resort,Agencia en línea,No reembolsable,2,3,12,2260.12,1,0,0,Baja,0
+RES-0371,35,Resort,Agencia física,Sin depósito,2,1,13,3182.8,2,4,1,Media,0
+RES-0372,140,Resort,Sitio web,Reembolsable,1,0,8,3060.92,4,1,0,Media,0
+RES-0373,49,Ciudad,Agencia física,Sin depósito,2,3,8,2377.19,2,0,1,Alta,1
+RES-0374,200,Ciudad,Sitio web,Reembolsable,3,1,12,1337.17,4,1,0,Baja,0
+RES-0375,186,Ciudad,Agencia en línea,Reembolsable,3,3,2,2849,3,4,1,Media,1
+RES-0376,315,Resort,Agencia en línea,No reembolsable,3,2,4,3726.71,0,3,0,Alta,0
+RES-0377,138,Ciudad,Empresa,Reembolsable,1,1,10,2200.02,3,0,0,Alta,0
+RES-0378,161,Ciudad,Sitio web,Reembolsable,4,0,1,3176.61,1,4,1,Media,1
+RES-0379,207,Resort,Sitio web,Sin depósito,1,0,7,3760.37,5,3,1,Baja,0
+RES-0380,154,Resort,Sitio web,Reembolsable,3,1,4,3589.79,5,1,1,Media,0
+RES-0381,365,Resort,Agencia física,Reembolsable,2,2,12,2537.59,3,3,1,Alta,0
+RES-0382,39,Resort,Sitio web,Reembolsable,1,3,14,3667.41,0,3,3,Alta,1
+RES-0383,31,Resort,Agencia física,No reembolsable,2,0,5,4414.58,2,3,1,Media,0
+RES-0384,25,Resort,Sitio web,No reembolsable,3,1,8,3729.4,5,0,0,Alta,0
+RES-0385,157,Ciudad,Sitio web,Reembolsable,1,0,1,1119.83,1,0,0,Baja,0
+RES-0386,219,Resort,Sitio web,Sin depósito,3,1,6,3244.48,3,4,2,Alta,1
+RES-0387,318,Ciudad,Agencia en línea,No reembolsable,1,0,14,2789.95,2,1,1,Alta,0
+RES-0388,251,Ciudad,Agencia física,Sin depósito,4,3,14,2256.71,2,1,1,Alta,0
+RES-0389,361,Resort,Agencia en línea,Reembolsable,1,3,12,2102.54,1,4,0,Baja,1
+RES-0390,38,Ciudad,Empresa,Reembolsable,4,1,3,1537.71,0,0,1,Baja,0
+RES-0391,164,Ciudad,Empresa,Sin depósito,1,0,12,2221.16,1,1,1,Media,1
+RES-0392,254,Ciudad,Agencia en línea,No reembolsable,3,3,4,1639.86,4,2,1,Baja,0
+RES-0393,250,Ciudad,Agencia física,Reembolsable,2,2,3,2253.3,2,3,1,Media,0
+RES-0394,58,Resort,Sitio web,No reembolsable,2,2,13,4076.97,4,0,1,Alta,0
+RES-0395,176,Ciudad,Agencia en línea,No reembolsable,3,1,13,2215.92,0,1,0,Alta,0
+RES-0396,61,Resort,Agencia en línea,No reembolsable,2,1,12,2228.8,3,3,0,Media,0
+RES-0397,220,Ciudad,Empresa,Reembolsable,4,1,14,1984.38,1,2,1,Media,0
+RES-0398,305,Resort,Empresa,Reembolsable,1,1,8,4294.12,1,2,0,Baja,0
+RES-0399,214,Resort,Empresa,Reembolsable,2,3,12,2144.08,1,4,1,Baja,1
+RES-0400,127,Ciudad,Sitio web,Reembolsable,2,0,2,4656.48,2,1,0,Alta,0
+RES-0401,45,Resort,Empresa,No reembolsable,4,0,8,4001.24,0,0,0,Baja,1
+RES-0402,31,Ciudad,Agencia en línea,No reembolsable,1,2,8,650,4,3,1,Baja,0
+RES-0403,227,Resort,Agencia física,Sin depósito,4,2,9,3888.85,1,0,1,Baja,0
+RES-0404,292,Resort,Agencia física,Reembolsable,4,3,14,2336.39,0,3,2,Media,0
+RES-0405,280,Resort,Empresa,Reembolsable,3,1,14,3202.9,5,3,1,Media,0
+RES-0406,178,Ciudad,Sitio web,No reembolsable,2,2,6,1520.74,2,0,1,Media,1
+RES-0407,245,Ciudad,Sitio web,Sin depósito,2,3,12,3293.2,0,2,2,Alta,1
+RES-0408,217,Ciudad,Empresa,No reembolsable,1,3,12,1933.49,0,3,2,Alta,1
+RES-0409,143,Ciudad,Sitio web,No reembolsable,3,2,5,3441.18,2,4,2,Alta,0
+RES-0410,4,Resort,Agencia en línea,No reembolsable,2,2,4,2586.51,5,2,1,Baja,0
+RES-0411,97,Resort,Agencia en línea,Reembolsable,4,3,7,2732.08,2,3,1,Alta,1
+RES-0412,114,Resort,Agencia en línea,No reembolsable,1,0,8,3309.97,3,1,2,Baja,1
+RES-0413,20,Ciudad,Sitio web,No reembolsable,4,1,4,1222.34,5,3,1,Media,0
+RES-0414,233,Resort,Agencia en línea,No reembolsable,3,1,9,4254.82,4,4,1,Media,0
+RES-0415,218,Ciudad,Agencia en línea,Reembolsable,3,3,9,1199.96,4,1,2,Media,0
+RES-0416,262,Ciudad,Empresa,Sin depósito,4,0,9,3214.63,0,2,0,Baja,1
+RES-0417,287,Ciudad,Agencia en línea,Reembolsable,3,3,9,3445.39,4,0,0,Alta,1
+RES-0418,321,Resort,Agencia en línea,Reembolsable,3,3,10,3427.24,0,4,0,Media,0
+RES-0419,268,Resort,Empresa,No reembolsable,1,1,9,3291.11,3,0,0,Media,0
+RES-0420,147,Resort,Agencia en línea,Reembolsable,2,2,7,1389.54,1,3,1,Baja,0
+RES-0421,359,Ciudad,Agencia física,No reembolsable,1,3,7,2554.62,5,1,2,Media,0
+RES-0422,204,Resort,Empresa,No reembolsable,2,3,1,4308.23,4,0,1,Alta,0
+RES-0423,39,Resort,Agencia en línea,No reembolsable,2,1,6,743.21,5,4,0,Alta,0
+RES-0424,288,Ciudad,Sitio web,Reembolsable,1,3,8,1106.18,1,4,0,Alta,1
+RES-0425,118,Ciudad,Empresa,Reembolsable,1,2,6,1818.73,5,4,0,Media,0
+RES-0426,149,Resort,Agencia física,No reembolsable,2,2,4,2799.28,0,4,1,Alta,0
+RES-0427,300,Resort,Empresa,No reembolsable,4,0,9,2906.46,0,1,0,Baja,0
+RES-0428,77,Resort,Empresa,Sin depósito,4,2,14,3958.01,1,0,1,Baja,0
+RES-0429,117,Resort,Sitio web,Sin depósito,3,2,9,1417.84,2,3,1,Alta,0
+RES-0430,121,Resort,Empresa,Reembolsable,1,3,1,1822.87,3,0,0,Media,0
+RES-0431,167,Ciudad,Agencia en línea,Sin depósito,2,1,11,2465.27,1,0,0,Media,1
+RES-0432,18,Resort,Empresa,Sin depósito,2,0,12,4503.47,1,0,1,Baja,1
+RES-0433,321,Ciudad,Empresa,Sin depósito,3,3,2,1137.05,0,1,0,Alta,0
+RES-0434,137,Ciudad,Empresa,Reembolsable,3,1,10,1020.28,3,0,2,Media,0
+RES-0435,188,Resort,Agencia física,Sin depósito,1,0,9,3399.03,0,1,1,Baja,0
+RES-0436,37,Resort,Empresa,No reembolsable,2,1,11,1257.05,0,1,1,Alta,0
+RES-0437,201,Ciudad,Sitio web,Reembolsable,4,2,5,2800.35,2,3,1,Media,0
+RES-0438,289,Ciudad,Sitio web,Sin depósito,2,3,4,3483.71,4,3,0,Baja,0
+RES-0439,236,Resort,Agencia en línea,No reembolsable,3,0,4,2982.09,4,1,1,Baja,0
+RES-0440,227,Ciudad,Empresa,Sin depósito,2,1,8,2666.82,1,1,1,Media,0
+RES-0441,129,Ciudad,Agencia en línea,Sin depósito,2,0,11,2290.56,0,1,1,Media,0
+RES-0442,255,Resort,Agencia física,Sin depósito,3,1,10,3580.58,1,3,0,Alta,0
+RES-0443,94,Ciudad,Agencia en línea,Reembolsable,2,2,6,3548.08,3,4,0,Alta,0
+RES-0444,287,Resort,Agencia en línea ,Reembolsable,1,3,4,4260.06,5,2,1,Media,0
+RES-0445,69,Ciudad,Sitio web,Reembolsable,4,0,2,3151.49,2,0,0,Alta,0
+RES-0446,184,Resort,Empresa,No reembolsable,3,3,5,2520.44,2,1,1,Alta,0
+RES-0447,73,Ciudad,Agencia en línea,Reembolsable,1,1,12,667.94,3,0,1,Baja,1
+RES-0448,357,Ciudad,Sitio web,Reembolsable,2,3,1,2461.54,1,0,1,Media,0
+RES-0449,354,Ciudad,Sitio web,No reembolsable,4,1,11,1847.67,1,2,1,Media,0
+RES-0450,364,Ciudad,Agencia en línea,Sin depósito,1,3,11,2383.27,2,2,0,Media,1
+RES-0451,19,Ciudad,Agencia física,No reembolsable,3,0,8,3229.27,5,2,1,Baja,0
+RES-0452,156,Resort,Agencia física,Sin depósito,3,2,1,3682.55,0,1,0,Baja,0
+RES-0453,279,Ciudad,Empresa,No reembolsable,4,0,6,888.9,2,3,0,Baja,0
+RES-0454,230,Ciudad,Agencia física,No reembolsable,3,0,2,2198.84,1,0,0,Media,0
+RES-0455,185,Ciudad,Agencia física,Reembolsable,2,3,13,814.25,5,2,0,Alta,0
+RES-0456,362,Resort,Sitio web,Sin depósito,4,2,9,4522.35,3,3,1,Media,0
+RES-0457,62,Resort,Empresa,No reembolsable,2,3,4,4232.37,4,0,1,Media,0
+RES-0458,278,Ciudad,Agencia en línea,No reembolsable,2,3,5,1921.58,4,3,0,Baja,0
+RES-0459,240,Ciudad,Empresa,No reembolsable,1,2,6,1106.73,0,0,0,Media,0
+RES-0460,57,Ciudad,Agencia en línea,Reembolsable,2,3,13,1757.12,3,0,1,Alta,0
+RES-0461,153,Resort,Empresa,No reembolsable,1,3,2,3538.39,2,3,1,Media,1
+RES-0462,162,Resort,Agencia física,Reembolsable,3,3,3,4416.37,4,1,1,Media,1
+RES-0463,171,Ciudad,Agencia en línea,No reembolsable,1,2,7,1775.49,4,4,1,Media,0
+RES-0464,48,Ciudad,Agencia en línea,Sin depósito,3,2,11,2393.16,3,1,3,Baja,0
+RES-0465,142,Ciudad,Agencia en línea,Sin depósito,4,3,2,2173.65,2,0,2,Media,0
+RES-0466,126,Ciudad,Empresa,Sin depósito,4,2,13,2491.97,3,3,0,Media,0
+RES-0467,343,Resort,Agencia en línea,No reembolsable,2,0,9,2514.29,5,4,1,Media,1
+RES-0468,279,Ciudad,Agencia en línea,No reembolsable,1,0,7,3480.38,4,4,1,Media,0
+RES-0469,176,Resort,Empresa,Sin depósito,2,1,10,3059.05,3,1,0,Media,0
+RES-0470,19,Ciudad,Agencia en línea,Reembolsable,1,1,6,1409.86,3,3,1,Alta,0
+RES-0471,96,Ciudad,Agencia en línea,Sin depósito,1,1,5,1182.79,3,1,2,Baja,0
+RES-0472,18,Resort,Agencia física,No reembolsable,2,0,3,2934.72,4,1,1,Alta,0
+RES-0473,348,Resort,Agencia en línea,Sin depósito,1,2,3,3347.73,2,2,0,Media,0
+RES-0474,117,Ciudad,Agencia en línea,Reembolsable,4,0,13,921.67,1,0,2,Media,1
+RES-0475,264,Ciudad,Empresa,Reembolsable,1,0,7,991.13,2,1,2,Alta,1
+RES-0476,173,Resort,Sitio web,No reembolsable,4,3,6,3892.4,0,2,2,Baja,0
+RES-0477,186,Resort,Empresa,Reembolsable,3,2,7,1753.82,5,4,1,Alta,1
+RES-0478,351,Ciudad,Sitio web,Reembolsable,1,0,5,2885.22,0,2,2,Media,0
+RES-0479,78,Resort,Sitio web,No reembolsable,4,3,9,3713.02,5,0,1,Alta,0
+RES-0480,159,Resort,Agencia en línea,Sin depósito,3,3,3,1593.35,1,1,1,Baja,0
+RES-0481,103,Ciudad,Agencia en línea,Sin depósito,3,3,11,1766.37,5,4,1,Media,0
+RES-0482,169,Ciudad,Sitio web,Reembolsable,2,1,2,1974.38,1,3,1,Baja,0
+RES-0483,243,Ciudad,Agencia en línea,Sin depósito,1,2,3,1513.58,2,0,0,Media,0
+RES-0484,192,Ciudad,Sitio web,Sin depósito,3,0,5,3696.9,2,2,0,Media,0
+RES-0485,169,Ciudad,Sitio web,Sin depósito,1,3,2,2430.44,5,1,1,Media,1
+RES-0486,202,Ciudad,Agencia en línea,No reembolsable,2,3,1,2335.08,0,4,0,Baja,0
+RES-0487,272,Ciudad,Agencia en línea,No reembolsable,1,2,11,857.29,4,1,0,Media,0
+RES-0488,169,Ciudad,Sitio web,Reembolsable,4,2,11,3147.18,0,4,1,Baja,1
+RES-0489,82,Resort,Agencia física,Sin depósito,2,3,8,2824.07,5,0,3,Media,1
+RES-0490,92,Ciudad,Empresa,Reembolsable,3,1,2,1984.99,2,0,1,Media,0
+RES-0491,224,Resort,Agencia física,No reembolsable,1,1,5,2382.15,1,1,0,Alta,0
+RES-0492,321,Resort,Empresa,No reembolsable,2,1,3,3257.4,3,1,0,Baja,0
+RES-0493,260,Ciudad,Agencia física,Sin depósito,2,0,11,1219.21,1,4,3,Baja,1
+RES-0494,55,Resort,Sitio web,Sin depósito,4,1,2,3122.6,3,0,0,Media,0
+RES-0495,232,Resort,Agencia en línea,Reembolsable,1,1,14,3009.49,2,0,0,Baja,0
+RES-0496,107,Ciudad,Agencia física,Reembolsable,1,1,11,2167,0,3,1,Baja,1
+RES-0497,77,Ciudad,Sitio web,Sin depósito,2,1,3,2179.63,2,0,0,Alta,0
+RES-0498,354,Ciudad,Empresa,No reembolsable,1,2,6,1393.05,4,4,0,Media,1
+RES-0499,98,Ciudad,Empresa,No reembolsable,3,2,12,2169.97,2,2,2,Media,0
+RES-0500,365,Resort,Sitio web,Reembolsable,2,1,4,3611.83,1,4,0,Media,1
+RES-0501,303,Resort,Agencia física,Sin depósito,4,0,1,1530.1,1,1,0,Baja,0
+RES-0502,225,Ciudad,Agencia en línea,Reembolsable,4,2,1,3576.81,5,1,0,Baja,0
+RES-0503,217,Ciudad,Empresa,Sin depósito,1,0,9,1763.85,3,3,0,Alta,1
+RES-0504,232,Ciudad,Agencia física,Sin depósito,1,2,1,3356.64,4,1,0,Baja,0
+RES-0505,78,Ciudad,Empresa,No reembolsable,2,0,9,1755.42,0,3,2,Media,0
+RES-0506,117,Resort,Agencia física,Reembolsable,2,3,1,5108.18,3,3,2,Alta,0
+RES-0507,59,Resort,Sitio web,Reembolsable,1,0,2,3352.57,3,0,0,Media,0
+RES-0508,261,Resort,Agencia física,Reembolsable,2,2,5,3895.28,1,2,1,Alta,1
+RES-0509,80,Resort,sitio web,No reembolsable,3,0,13,3280.97,2,2,1,Media,0
+RES-0510,306,Resort,Empresa,Sin depósito,2,0,14,3688.99,3,2,0,Baja,0
+RES-0511,0,Ciudad,Agencia en línea,Reembolsable,3,1,13,2610.68,5,0,1,Baja,0
+RES-0512,227,Ciudad,Empresa,Reembolsable,2,3,5,2314.28,4,4,1,Media,1
+RES-0513,197,Resort,Agencia en línea,No reembolsable,2,1,12,3027.32,4,2,0,Media,0
+RES-0514,286,Ciudad,Agencia en línea,Reembolsable,3,3,4,2435.44,2,0,1,Media,0
+RES-0515,170,Ciudad,Sitio web,Reembolsable,4,0,10,1448.21,1,3,0,Alta,0
+RES-0516,55,Ciudad,Agencia en línea,No reembolsable,2,0,5,650,5,0,0,Baja,0
+RES-0517,170,Ciudad,Agencia en línea,Reembolsable,2,3,14,2251.9,3,1,0,Alta,0
+RES-0518,354,Resort,Agencia en línea,Reembolsable,2,1,8,3091.84,4,2,2,Alta,1
+RES-0519,0,Ciudad,Sitio web,No reembolsable,3,0,1,3571.15,4,0,0,Alta,0
+RES-0520,210,Resort,Empresa,Reembolsable,4,2,3,2717.61,0,1,0,Media,0
+RES-0521,270,Resort,Sitio web,No reembolsable,1,1,7,4493.17,3,3,1,Media,0
+RES-0522,175,Ciudad,Agencia física,No reembolsable,1,2,2,,5,3,1,Alta,1
+RES-0523,194,Ciudad,Empresa,Sin depósito,3,2,2,2478.52,5,0,0,Alta,0
+RES-0524,295,Ciudad,Sitio web,Reembolsable,4,0,11,650,2,3,1,Baja,0
+RES-0525,286,Ciudad,Empresa,Sin depósito,1,1,14,1079.76,3,0,1,Media,0
+RES-0526,333,Ciudad,Agencia física,Sin depósito,3,3,7,650,3,4,0,Media,0
+RES-0527,178,Ciudad,Empresa,No reembolsable,3,0,1,1519.76,4,1,0,Media,0
+RES-0528,95,Ciudad,Agencia física,Sin depósito,3,3,8,3569.02,0,1,1,Alta,1
+RES-0529,5,Resort,Agencia física,Reembolsable,3,0,6,3582.55,1,4,0,Baja,0
+RES-0530,296,Ciudad,Empresa,Sin depósito,3,0,2,2736.82,5,2,2,Alta,0
+RES-0531,34,Ciudad,Agencia en línea,No reembolsable,3,3,10,1044.42,0,0,1,Alta,0
+RES-0532,36,Resort,Sitio web,No reembolsable,3,3,5,3451.35,2,3,1,Alta,0
+RES-0533,273,Ciudad,Agencia física,Reembolsable,1,2,9,2240.25,2,2,1,Alta,1
+RES-0534,21,Resort,Agencia física,No reembolsable,3,3,6,3560.76,4,2,0,Media,0
+RES-0535,157,Ciudad,Agencia física,Reembolsable,3,1,6,1745.45,4,1,0,Media,0
+RES-0536,134,Resort,Sitio web,Reembolsable,1,3,1,3666.88,4,2,1,Alta,0
+RES-0537,246,Ciudad,Agencia en línea,No reembolsable,2,3,5,650,4,1,1,Baja,0
+RES-0538,333,Ciudad,Empresa,Sin depósito,2,1,10,1826.99,3,0,0,Media,0
+RES-0539,174,Resort,Empresa,Reembolsable,3,0,9,2508.68,1,2,0,Media,1
+RES-0540,309,Resort,Agencia física,Sin depósito,4,3,5,3555.2,3,0,0,Baja,1
+RES-0541,265,Ciudad,Empresa,Sin depósito,2,2,1,1104.96,5,3,0,Media,0
+RES-0542,229,Ciudad,Agencia física,Sin depósito,1,0,6,3595.94,0,2,0,Media,1
+RES-0543,177,Ciudad,Sitio web,No reembolsable,4,2,1,1839.07,0,2,0,Alta,0
+RES-0544,256,Ciudad,Agencia física,Sin depósito,2,3,9,1507.08,3,2,0,Media,0
+RES-0545,118,Ciudad,Empresa,Reembolsable,1,1,12,2331.64,5,0,0,Baja,0
+RES-0546,323,Ciudad,Agencia física,Sin depósito,2,1,7,2332.8,0,1,0,Baja,0
+RES-0547,123,Resort,Sitio web,No reembolsable,4,3,2,1384.9,2,3,0,Media,1
+RES-0548,89,Ciudad,Agencia en línea,No reembolsable,2,3,1,3585.21,5,3,2,Baja,0
+RES-0549,96,Resort,Agencia física,Sin depósito,3,3,14,3174.67,1,1,0,Media,0
+RES-0550,179,Resort,Agencia en línea,Reembolsable,2,1,11,2732.44,2,3,0,Alta,0
+RES-0551,292,Resort,Sitio web,Sin depósito,3,2,11,2866.24,2,3,1,Alta,0
+RES-0552,149,Ciudad,Agencia en línea,No reembolsable,4,0,12,701.36,1,2,0,Alta,1
+RES-0553,281,Resort,Empresa,No reembolsable,2,0,3,4253.71,0,1,1,Media,0
+RES-0554,2,Ciudad,Agencia física,Reembolsable,1,3,11,2268.26,1,1,2,Alta,0
+RES-0555,277,Resort,Sitio web,No reembolsable,1,0,1,1868.84,3,3,1,Baja,0
+RES-0556,268,Resort,Sitio web,Sin depósito,4,2,5,3791.63,0,4,0,Media,0
+RES-0557,182,Ciudad,Sitio web,No reembolsable,1,0,6,650,0,4,1,Baja,0
+RES-0558,116,Resort,Sitio web,Sin depósito,4,1,14,3700.22,2,0,1,Alta,0
+RES-0559,329,Ciudad,Sitio web,No reembolsable,2,1,12,1855.34,1,0,0,Baja,0
+RES-0560,359,Resort,Sitio web,Sin depósito,3,2,8,3571.1,2,0,2,Media,0
+RES-0561,168,Resort,Sitio web,Sin depósito,2,0,1,1384.84,2,1,0,Baja,0
+RES-0562,105,Resort,Agencia en línea ,Sin depósito,3,2,5,2679.56,5,3,2,Alta,0
+RES-0563,171,Resort,Empresa,No reembolsable,4,0,3,3228.13,4,0,2,Media,1
+RES-0564,146,Ciudad,Empresa,No reembolsable,3,0,10,650,1,2,1,Baja,0
+RES-0565,120,Resort,Agencia en línea,Sin depósito,1,3,14,,2,2,2,Baja,0
+RES-0566,316,Ciudad,Sitio web,Sin depósito,3,2,10,4191.8,1,2,0,Alta,1
+RES-0567,166,Ciudad,Agencia física,No reembolsable,1,1,5,2708.46,2,2,0,Media,0
+RES-0568,307,Resort,Agencia física,No reembolsable,1,0,7,4743.06,3,0,0,Media,1
+RES-0569,257,Ciudad,Agencia en línea,No reembolsable,4,3,12,1657.48,5,1,0,Baja,0
+RES-0570,214,Ciudad,Sitio web,Reembolsable,3,2,1,1867.49,2,3,1,Baja,0
+RES-0571,122,Ciudad,Agencia en línea,No reembolsable,4,0,5,650,0,4,0,Baja,1
+RES-0572,336,Ciudad,sitio web,Reembolsable,3,0,6,1809.84,4,3,2,Media,0
+RES-0573,39,Resort,Empresa,Sin depósito,3,0,6,2129.09,3,1,0,Baja,0
+RES-0574,338,Resort,Agencia en línea,No reembolsable,3,0,14,4399.42,1,1,0,Alta,0
+RES-0575,289,Ciudad,Empresa,Sin depósito,1,3,7,3809.31,5,3,0,Alta,1
+RES-0576,348,Resort,Sitio web,Reembolsable,3,3,13,4540.82,0,1,2,Media,1
+RES-0577,192,Resort,Agencia en línea,No reembolsable,1,1,5,,4,3,1,Baja,0
+RES-0578,279,Resort,Agencia en línea,Sin depósito,2,3,3,3146.37,4,2,0,Alta,0
+RES-0579,331,Resort,Empresa,Reembolsable,4,1,4,1589.85,3,4,0,Media,0
+RES-0580,334,Ciudad,Sitio web,Reembolsable,3,0,10,1223.7,5,3,2,Alta,1
+RES-0581,254,Ciudad,Agencia física,No reembolsable,3,1,3,1819.84,1,2,1,Baja,0
+RES-0582,344,Ciudad,Sitio web,Sin depósito,1,2,9,1183.12,3,2,1,Alta,0
+RES-0583,209,Resort,Agencia en línea,Reembolsable,3,0,3,4150.02,4,3,1,Media,0
+RES-0584,120,Ciudad,Sitio web,Sin depósito,2,2,2,2572.53,4,0,1,Baja,0
+RES-0585,233,Resort,Agencia física,No reembolsable,4,0,7,2046.87,0,0,0,Media,0
+RES-0586,69,Resort,Empresa,Reembolsable,4,0,13,4351.12,2,1,1,Media,0
+RES-0587,70,Resort,Sitio web,No reembolsable,1,2,3,3837.37,1,2,0,Media,0
+RES-0588,181,Ciudad,Sitio web,No reembolsable,4,2,5,3587.87,0,2,2,Baja,1
+RES-0589,342,Ciudad,Agencia en línea,Reembolsable,2,2,3,1340.43,2,2,0,Media,1
+RES-0590,298,Ciudad,Agencia física,Reembolsable,1,3,7,3048.94,2,0,1,Media,1
+RES-0591,219,Ciudad,Agencia en línea,No reembolsable,1,0,13,2919.89,0,1,0,Baja,0
+RES-0592,38,Ciudad,Agencia física,Sin depósito,1,1,4,1709.01,1,0,2,Alta,0
+RES-0593,201,Resort,Empresa,Reembolsable,2,3,5,3821.24,2,2,2,Alta,0
+RES-0594,310,Ciudad,Empresa,Reembolsable,4,2,14,2681.12,0,2,0,Media,0
+RES-0595,117,Resort,Empresa,Reembolsable,3,0,5,4256.78,0,4,0,Baja,1
+RES-0596,43,Ciudad,Agencia en línea,No reembolsable,3,2,4,3406.26,4,2,2,Alta,1
+RES-0597,222,Resort,Agencia física,Sin depósito,1,2,12,3175.82,0,1,1,Baja,0
+RES-0598,266,Resort,Sitio web,Reembolsable,4,3,4,2455.57,2,4,2,Media,0
+RES-0599,213,Ciudad,Sitio web,No reembolsable,4,2,9,1110.6,3,3,2,Baja,0
+RES-0600,323,Resort,Agencia en línea,Sin depósito,1,3,6,3623.09,0,3,1,Baja,1
+RES-0601,88,Ciudad,Agencia física,No reembolsable,3,3,10,1485.67,5,1,1,Baja,0
+RES-0602,117,Resort,Agencia física,Reembolsable,1,1,10,2929.41,0,0,1,Alta,0
+RES-0603,296,Resort,Agencia física,Reembolsable,3,0,9,3252.22,4,3,0,Alta,1
+RES-0604,187,Resort,Sitio web,No reembolsable,1,1,9,4292.77,1,3,1,Media,0
+RES-0605,337,Resort,Agencia en línea,No reembolsable,4,0,14,2526.01,3,2,2,Alta,0
+RES-0606,123,Resort,Empresa,No reembolsable,2,3,13,3514.23,4,0,1,Baja,0
+RES-0607,223,Ciudad,Sitio web,Sin depósito,2,2,9,1394.93,3,1,0,Media,0
+RES-0608,233,Ciudad,Empresa,No reembolsable,2,1,6,1743.19,0,0,0,Alta,0
+RES-0609,326,Ciudad,Agencia en línea,Reembolsable,2,2,10,2874.33,4,3,0,Baja,1
+RES-0610,196,Resort,Agencia física,Reembolsable,3,3,12,3373.61,3,4,2,Media,0
+RES-0611,205,Resort,Empresa,Reembolsable,3,2,12,3920.3,5,0,1,Alta,0
+RES-0612,38,Resort,Agencia en línea,No reembolsable,1,2,11,3559.19,1,4,0,Alta,0
+RES-0613,218,Ciudad,EMPRESA,Reembolsable,3,2,14,3350.73,0,4,0,Baja,0
+RES-0614,210,Resort,Sitio web,Sin depósito,1,1,8,2729.71,1,4,2,Alta,1
+RES-0615,331,Resort,Agencia física,Sin depósito,2,3,5,2868.73,2,4,1,Media,0
+RES-0616,235,Resort,Empresa,Sin depósito,4,2,7,1710.33,3,3,2,Alta,0
+RES-0617,165,Resort,Agencia física,Sin depósito,2,2,12,3026.77,2,2,1,Media,1
+RES-0618,176,Resort,Agencia física,Sin depósito,3,2,8,3737.34,4,1,2,Baja,0
+RES-0619,229,Ciudad,Sitio web,Sin depósito,4,2,14,1018.88,5,1,0,Media,1
+RES-0620,293,Resort,Empresa,No reembolsable,1,0,10,5433.93,1,3,2,Alta,0
+RES-0621,171,Resort,Agencia en línea,Sin depósito,2,0,4,4462.02,3,0,2,Alta,1
+RES-0622,71,Ciudad,Sitio web,No reembolsable,2,2,11,4258.99,4,4,0,Media,0
+RES-0623,167,Resort,Sitio web,Sin depósito,3,0,8,,1,2,0,Media,0
+RES-0624,33,Ciudad,Sitio web,Reembolsable,4,3,5,1821.05,3,1,1,Alta,0
+RES-0625,275,Ciudad,Sitio web,No reembolsable,3,0,14,1511.01,0,0,0,Alta,0
+RES-0626,68,Ciudad,Agencia en línea,Sin depósito,3,3,2,2549.46,5,3,1,Media,0
+RES-0627,89,Resort,Sitio web,No reembolsable,2,1,1,2739.86,0,2,0,Media,0
+RES-0628,134,Ciudad,Agencia en línea,Sin depósito,1,2,13,1467.77,3,4,0,Alta,0
+RES-0629,134,Resort,Empresa,Reembolsable,4,3,5,1964.77,5,2,1,Media,1
+RES-0630,322,Ciudad,Empresa,Sin depósito,1,1,7,1409.46,1,0,1,Alta,0
+RES-0631,132,Resort,Agencia en línea,No reembolsable,4,3,11,3548.1,4,0,0,Baja,0
+RES-0632,210,Ciudad,Agencia física,Sin depósito,4,1,11,2782.75,0,2,2,Media,0
+RES-0633,347,Resort,Sitio web,Sin depósito,3,2,9,2125.92,4,2,2,Alta,0
+RES-0634,300,Resort,Agencia física,Reembolsable,4,1,2,,2,1,1,Media,0
+RES-0635,113,Ciudad,Agencia en línea,Reembolsable,2,1,12,928.63,5,4,0,Baja,1
+RES-0636,156,Ciudad,Empresa,No reembolsable,4,2,11,1254.22,3,0,2,Baja,0
+RES-0637,331,Resort,Agencia física,No reembolsable,4,3,5,1445.87,2,0,2,Media,1
+RES-0638,342,Resort,Agencia en línea,No reembolsable,2,3,9,3568.55,0,4,1,Baja,0
+RES-0639,11,Resort,Sitio web,No reembolsable,3,2,5,3839.06,0,4,0,Media,0
+RES-0640,89,Ciudad,Agencia en línea,No reembolsable,2,3,6,2185.74,4,0,1,Baja,0
+RES-0641,67,Resort,Agencia física,No reembolsable,4,3,9,4403.2,1,0,2,Baja,0
+RES-0642,45,Ciudad,Agencia física,Reembolsable,3,0,1,1516.78,1,1,0,Baja,0
+RES-0643,167,Ciudad,Agencia física,Reembolsable,2,3,9,1294.24,3,0,1,Baja,0
+RES-0644,317,Resort,Agencia en línea,Reembolsable,1,3,14,3939.9,4,3,1,Media,1
+RES-0645,61,Resort,Empresa,Reembolsable,1,3,5,2861.48,1,0,1,Media,0
+RES-0646,259,Ciudad,Sitio web,Reembolsable,4,0,10,2645.98,4,0,1,Baja,0
+RES-0647,337,Resort,Agencia física,Sin depósito,1,3,4,3041.96,3,3,1,Media,0
+RES-0648,276,Resort,EMPRESA,Reembolsable,3,3,14,3076.79,0,1,0,Media,0
+RES-0649,245,Resort,Agencia física,No reembolsable,2,3,2,3874.9,4,2,0,Media,0
+RES-0650,162,Resort,Sitio web,Reembolsable,2,1,1,2607.24,4,1,1,Alta,0
+RES-0651,215,Ciudad,Agencia en línea,Sin depósito,3,0,2,2425.1,0,4,0,Media,0
+RES-0652,183,Ciudad,Agencia en línea,Reembolsable,3,1,3,2282.39,2,4,1,Baja,0
+RES-0653,173,Ciudad,Agencia en línea,No reembolsable,1,1,3,1938.04,2,4,1,Alta,1
+RES-0654,185,Resort,Agencia en línea,Reembolsable,2,1,10,2087.37,3,2,2,Baja,1
+RES-0655,11,Resort,Agencia física,No reembolsable,2,0,9,3311.89,3,4,0,Baja,0
+RES-0656,43,Ciudad,Empresa,Reembolsable,4,2,4,1479.65,4,4,1,Baja,0
+RES-0657,71,Resort,Agencia en línea,Sin depósito,2,2,5,4335.65,2,4,1,Media,0
+RES-0658,351,Ciudad,Agencia en línea,No reembolsable,4,0,7,650.67,1,0,0,Alta,0
+RES-0659,354,Ciudad,Sitio web,Sin depósito,1,0,14,1448.08,2,1,1,Baja,0
+RES-0660,110,Ciudad,Agencia física,Reembolsable,4,3,7,2644.99,3,2,2,Media,1
+RES-0661,174,Resort,Sitio web,No reembolsable,3,0,9,4962.89,4,4,0,Baja,0
+RES-0662,341,Ciudad,Sitio web,Sin depósito,2,0,6,1900.68,2,1,0,Baja,0
+RES-0663,266,Ciudad,Agencia física,No reembolsable,3,0,6,3788.98,2,4,2,Alta,0
+RES-0664,255,Resort,Sitio web,Sin depósito,4,0,13,2357.42,2,2,2,Alta,0
+RES-0665,242,Ciudad,Sitio web,Reembolsable,3,1,11,1512.29,3,3,1,Media,0
+RES-0666,135,Resort,Sitio web,No reembolsable,4,1,9,4312.56,5,4,1,Media,0
+RES-0667,36,Resort,Agencia en línea,Sin depósito,1,2,5,2652.64,5,1,1,Alta,0
+RES-0668,35,Resort,Agencia en línea,Reembolsable,3,3,7,4578.98,1,3,0,Alta,0
+RES-0669,205,Resort,Sitio web,Sin depósito,1,0,3,4296.09,2,2,1,Media,1
+RES-0670,61,Ciudad,Agencia en línea,Reembolsable,3,3,1,2697.12,2,4,2,Alta,0
+RES-0671,307,Resort,Sitio web,No reembolsable,1,2,12,2865.74,4,0,0,Alta,0
+RES-0672,13,Resort,Sitio web,Sin depósito,2,1,3,2402.12,5,1,1,Alta,1
+RES-0673,37,Resort,Sitio web,No reembolsable,2,2,11,5553.23,0,4,0,Alta,0
+RES-0674,296,Resort,Empresa,Sin depósito,1,1,2,2592.71,1,0,1,Baja,1
+RES-0675,109,Resort,Agencia en línea,No reembolsable,1,0,10,3013.51,5,3,1,Alta,0
+RES-0676,120,Ciudad,Sitio web,Reembolsable,1,3,11,912.84,3,0,0,Media,0
+RES-0677,148,Resort,Agencia en línea,No reembolsable,1,2,8,4894.69,3,1,0,Baja,0
+RES-0678,82,Ciudad,Agencia física,Sin depósito,1,2,6,2320.17,3,2,0,Alta,0
+RES-0679,115,Resort,Agencia en línea,No reembolsable,2,2,2,2473.05,2,0,1,Alta,0
+RES-0680,148,Ciudad,Agencia física,No reembolsable,2,1,10,1894.9,1,3,0,Alta,0
+RES-0681,14,Ciudad,Agencia en línea,Sin depósito,4,3,12,1989.63,0,1,0,Baja,0
+RES-0682,287,Resort,Agencia física,Reembolsable,4,3,14,2380.09,4,2,0,Baja,0
+RES-0683,281,Ciudad,Empresa,Reembolsable,1,0,4,1704.03,5,1,0,Baja,0
+RES-0684,179,Ciudad,Sitio web,Reembolsable,4,3,3,1443.13,1,1,0,Baja,0
+RES-0685,171,Ciudad,Agencia física,No reembolsable,4,0,12,2907.15,2,3,1,Baja,1
+RES-0686,248,Resort,Sitio web,Reembolsable,3,0,14,2566.01,5,4,0,Baja,0
+RES-0687,161,Ciudad,Sitio web,Sin depósito,4,3,2,1672.98,4,4,1,Alta,0
+RES-0688,350,Resort,Agencia en línea,Sin depósito,1,2,1,5428.33,0,3,2,Media,1
+RES-0689,355,Ciudad,Empresa,No reembolsable,3,3,4,3162.26,3,1,0,Media,0
+RES-0690,40,Ciudad,Agencia física,Sin depósito,4,2,5,650.25,1,0,1,Media,1
+RES-0691,14,Ciudad,Agencia en línea,Reembolsable,3,2,4,1751.81,4,0,0,Baja,0
+RES-0692,174,Ciudad,Agencia en línea,Reembolsable,3,0,9,,3,1,1,Media,0
+RES-0693,189,Resort,Empresa,Reembolsable,3,0,8,2795.36,2,2,0,Baja,0
+RES-0694,1,Resort,Agencia en línea,Sin depósito,3,0,11,4241.71,1,3,2,Media,0
+RES-0695,211,Ciudad,Agencia en línea,Reembolsable,2,3,7,1515.84,0,3,1,Baja,0
+RES-0696,261,Resort,Sitio web,No reembolsable,1,0,3,2783.96,1,0,0,Baja,0
+RES-0697,154,Resort,Empresa,Reembolsable,4,0,7,3893.81,4,2,1,Baja,0
+RES-0698,68,Ciudad,Agencia física,No reembolsable,1,0,3,,0,3,1,Baja,0
+RES-0699,170,Resort,Empresa,No reembolsable,4,1,9,1628,3,4,1,Baja,0
+RES-0700,268,Ciudad,Agencia física,Reembolsable,3,3,12,2329.04,0,4,2,Media,0
+RES-0701,260,Ciudad,Agencia en línea,No reembolsable,3,2,4,2476.66,2,4,1,Baja,0
+RES-0702,92,Ciudad,Agencia física,Sin depósito,3,0,14,2509.05,1,1,1,Alta,0
+RES-0703,345,Resort,Agencia en línea,Sin depósito,4,0,12,3213.83,1,2,1,Baja,0
+RES-0704,137,Ciudad,Sitio web,No reembolsable,3,1,4,2809.71,4,1,3,Media,0
+RES-0705,204,Ciudad,Empresa,Reembolsable,3,3,10,2256.56,5,0,0,Baja,0
+RES-0706,203,Ciudad,Empresa,Reembolsable,1,0,9,2064.75,0,3,1,Baja,0
+RES-0707,293,Resort,Agencia en línea,Sin depósito,3,3,8,3023.99,4,3,1,Media,0
+RES-0708,79,Resort,Agencia física,No reembolsable,2,2,5,2994.82,1,4,1,Baja,0
+RES-0709,83,Resort,Agencia en línea,Reembolsable,4,1,10,3386.22,5,3,0,Baja,0
+RES-0710,9,Ciudad,Sitio web,Sin depósito,3,2,9,2728.02,2,2,1,Alta,0
+RES-0711,165,Resort,Sitio web,No reembolsable,3,1,13,3836,5,1,2,Alta,0
+RES-0712,343,Resort,Sitio web,Reembolsable,4,3,2,3848.16,1,0,0,Media,0
+RES-0713,128,Ciudad,Agencia en línea,No reembolsable,4,3,7,2987.19,2,4,0,Media,0
+RES-0714,289,Resort,Sitio web,No reembolsable,1,0,14,2296.21,0,4,0,Alta,0
+RES-0715,300,Ciudad,Empresa,Reembolsable,1,2,7,2568.36,0,2,0,Media,0
+RES-0716,60,Resort,Agencia física,No reembolsable,4,2,1,3809.22,3,3,0,Baja,0
+RES-0717,178,Resort,Empresa,Reembolsable,1,2,4,2017.59,0,4,1,Baja,1
+RES-0718,280,Resort,Empresa,No reembolsable,3,2,9,4361.79,1,3,0,Baja,0
+RES-0719,229,Resort,Agencia en línea,Reembolsable,1,2,12,2748.82,4,4,1,Alta,1
+RES-0720,47,Resort,Sitio web,Reembolsable,4,0,9,,1,4,0,Media,0
+RES-0721,117,Resort,Empresa,Reembolsable,1,0,13,3422.62,5,2,1,Alta,0
+RES-0722,257,Ciudad,Agencia en línea,Reembolsable,4,1,13,1587.39,3,3,2,Media,1
+RES-0723,1,Resort,EMPRESA,No reembolsable,4,3,8,3409.13,4,1,0,Alta,0
+RES-0724,260,Resort,Sitio web,No reembolsable,4,0,13,2680.69,2,3,0,Baja,1
+RES-0725,181,Ciudad,Sitio web,No reembolsable,2,1,6,2855.13,3,3,1,Alta,0
+RES-0726,229,Resort,Empresa,Sin depósito,1,0,1,2974.38,2,3,0,Alta,0
+RES-0727,147,Resort,Agencia física,No reembolsable,1,2,4,3186.86,5,1,1,Media,0
+RES-0728,145,Resort,Agencia en línea,Reembolsable,4,0,5,2968.66,5,0,1,Baja,0
+RES-0729,346,Ciudad,Sitio web,Reembolsable,3,2,13,3150.14,0,1,0,Baja,0
+RES-0730,246,Resort,Empresa,Sin depósito,4,0,13,4042.62,5,2,1,Media,1
+RES-0731,90,Resort,Empresa,Reembolsable,4,3,3,2091.12,2,1,0,Alta,0
+RES-0732,280,Resort,Empresa,No reembolsable,4,2,11,4122.81,2,3,0,Alta,0
+RES-0733,339,Resort,Empresa,No reembolsable,3,3,4,2764.48,2,4,1,Media,0
+RES-0734,24,Ciudad,Empresa,No reembolsable,3,3,10,1933.97,3,3,1,Alta,0
+RES-0735,128,Resort,Empresa,Reembolsable,3,0,14,2670.71,4,3,0,Alta,0
+RES-0736,355,Resort,Agencia física,Sin depósito,4,2,12,3277.24,3,2,0,Alta,0
+RES-0737,261,Resort,Agencia física,No reembolsable,2,1,3,2334.89,5,1,2,Alta,1
+RES-0738,20,Ciudad,Agencia física,Reembolsable,4,0,1,3287.16,0,1,0,Alta,0
+RES-0739,177,Ciudad,Sitio web,No reembolsable,2,3,2,2017.55,4,3,0,Media,1
+RES-0740,260,Ciudad,Sitio web,No reembolsable,4,2,4,1738.18,1,0,0,Alta,0
+RES-0741,341,Ciudad,Empresa,Sin depósito,2,3,3,678.86,3,4,0,Alta,0
+RES-0742,339,Resort,Sitio web,Reembolsable,2,3,3,1599.54,2,0,1,Baja,1
+RES-0743,344,Ciudad,Sitio web,No reembolsable,1,1,2,3445.09,3,3,2,Media,1
+RES-0744,157,Resort,Empresa,No reembolsable,2,0,2,2458.08,2,2,0,Alta,0
+RES-0745,243,Ciudad,Empresa,No reembolsable,4,1,7,2381.48,0,2,0,Media,0
+RES-0746,176,Resort,Agencia física,Sin depósito,4,2,9,4133.82,5,3,2,Alta,0
+RES-0747,143,Resort,Agencia física,Reembolsable,4,3,11,2362.61,3,2,1,Baja,0
+RES-0748,149,Ciudad,Sitio web,No reembolsable,4,0,8,1317.58,3,1,0,Alta,0
+RES-0749,305,Ciudad,Agencia física,Sin depósito,2,3,2,2536.86,3,1,0,Baja,0
+RES-0750,360,Ciudad,Agencia en línea,Reembolsable,1,1,6,2822.48,5,4,2,Alta,0
+RES-0751,135,Ciudad,Sitio web,No reembolsable,2,2,5,1777.54,5,0,2,Baja,0
+RES-0752,363,Ciudad,Empresa,Sin depósito,2,0,4,1618.08,5,4,1,Baja,0
+RES-0753,139,Resort,Agencia en línea,No reembolsable,3,3,12,3300.03,0,2,0,Baja,0
+RES-0754,188,Resort,Empresa,No reembolsable,4,2,3,4837.81,2,0,0,Media,0
+RES-0755,354,Resort,Empresa,Reembolsable,2,0,1,1289.62,5,1,3,Media,0
+RES-0756,185,Ciudad,Empresa,Reembolsable,2,1,12,2296.89,3,3,1,Baja,0
+RES-0757,314,Resort,Agencia en línea,Reembolsable,1,3,6,3724.84,5,1,1,Baja,0
+RES-0758,288,Resort,Agencia en línea,No reembolsable,4,3,8,3412.74,3,1,0,Alta,1
+RES-0759,199,Resort,Agencia física,Sin depósito,3,2,8,4218.42,1,3,0,Alta,1
+RES-0760,209,Resort,Sitio web,No reembolsable,2,0,14,4339.58,3,4,1,Media,0
+RES-0761,169,Resort,Agencia física,No reembolsable,1,2,3,4793.83,5,0,1,Media,0
+RES-0762,343,Resort,Agencia en línea,No reembolsable,1,2,10,3446.92,2,4,0,Baja,0
+RES-0763,199,Ciudad,Sitio web,Reembolsable,2,1,7,650,5,0,0,Media,0
+RES-0764,327,Resort,Sitio web,No reembolsable,4,2,13,2854.45,5,3,0,Baja,0
+RES-0765,246,Resort,Sitio web,Sin depósito,4,1,3,3633.85,3,1,1,Baja,1
+RES-0766,295,Ciudad,Agencia física,Sin depósito,2,3,6,2789.01,5,1,0,Baja,0
+RES-0767,278,Resort,Sitio web,No reembolsable,3,0,6,3640.9,4,3,2,Alta,0
+RES-0768,276,Ciudad,Empresa,No reembolsable,2,3,13,3348.94,2,1,0,Alta,0
+RES-0769,350,Resort,Empresa,No reembolsable,2,3,12,1853.84,5,3,0,Baja,0
+RES-0770,252,Resort,Empresa,Reembolsable,2,1,14,2497.06,3,1,0,Alta,0
+RES-0771,220,Ciudad,Sitio web,No reembolsable,2,0,14,4230.8,2,2,1,Media,0
+RES-0772,265,Ciudad,Agencia en línea,Reembolsable,3,3,12,1455.9,2,4,1,Baja,1
+RES-0773,89,Resort,Agencia en línea,Reembolsable,1,0,14,2359.06,3,3,0,Alta,0
+RES-0774,242,Ciudad,Sitio web,No reembolsable,4,0,1,3174.66,2,3,3,Alta,0
+RES-0775,74,Resort,Agencia física,Sin depósito,2,3,5,2543.33,4,1,0,Baja,0
+RES-0776,135,Resort,Agencia en línea,Reembolsable,1,0,4,3516.47,2,1,1,Baja,0
+RES-0777,48,Resort,Empresa,No reembolsable,3,2,1,4670.08,2,2,1,Alta,0
+RES-0778,317,Resort,Agencia física,Reembolsable,4,2,11,2787.98,4,2,1,Media,0
+RES-0779,165,Resort,Agencia física,No reembolsable,3,3,9,2076.9,4,0,2,Alta,0
+RES-0780,359,Resort,Agencia física,Sin depósito,4,3,1,1930.61,4,0,3,Media,1
+RES-0781,1,Ciudad,Agencia física,No reembolsable,1,2,8,2431.79,0,4,3,Media,0
+RES-0782,151,Resort,Agencia en línea,Sin depósito,1,3,6,2075.66,2,1,2,Alta,1
+RES-0783,94,Resort,Empresa,Reembolsable,4,1,8,3052.84,4,0,2,Media,0
+RES-0784,208,Ciudad,Agencia en línea,Sin depósito,4,3,6,2248.16,2,4,1,Media,0
+RES-0785,199,Ciudad,Agencia en línea,Reembolsable,4,1,8,1767.94,1,4,0,Baja,0
+RES-0786,287,Ciudad,Sitio web,Sin depósito,2,2,13,1661.44,2,0,2,Media,1
+RES-0787,245,Resort,Agencia en línea,No reembolsable,4,3,14,2752.94,1,0,0,Media,0
+RES-0788,234,Ciudad,Agencia en línea,Sin depósito,2,1,1,,3,0,1,Media,0
+RES-0789,118,Resort,Sitio web,Sin depósito,3,0,5,2700.56,1,3,1,Baja,0
+RES-0790,323,Ciudad,Agencia física,Reembolsable,3,1,14,1159.75,3,2,0,Baja,0
+RES-0791,225,Ciudad,Agencia física,Sin depósito,1,1,1,1566.32,2,3,1,Media,0
+RES-0792,196,Resort,Agencia en línea,Reembolsable,3,2,5,3074.24,4,3,0,Alta,0
+RES-0793,154,Resort,Empresa,Reembolsable,1,0,9,2407.31,5,2,0,Media,0
+RES-0794,39,Resort,Agencia en línea,Sin depósito,3,3,5,4999.39,3,2,0,Media,0
+RES-0795,143,Resort,Empresa,Reembolsable,2,2,1,4099.15,4,0,0,Media,0
+RES-0796,130,Ciudad,Agencia física,Reembolsable,2,0,2,2521.79,3,4,0,Alta,0
+RES-0797,110,Resort,Agencia en línea,No reembolsable,4,0,1,4427.83,5,1,1,Media,0
+RES-0798,35,Resort,Sitio web,No reembolsable,2,2,11,2697.83,2,0,0,Alta,0
+RES-0799,78,Resort,Agencia física,No reembolsable,2,0,11,2678.13,0,4,2,Baja,0
+RES-0800,253,Resort,Sitio web,No reembolsable,1,3,12,4700.2,1,4,0,Alta,0
+RES-0801,132,Resort,Sitio web,Sin depósito,4,1,1,2995.66,0,1,0,Media,0
+RES-0802,16,Resort,Empresa,Reembolsable,3,3,12,2182.63,2,1,1,Baja,0
+RES-0803,142,Resort,Agencia física,Reembolsable,4,0,9,3365.83,4,3,1,Baja,1
+RES-0804,271,Resort,Agencia en línea,Reembolsable,1,0,13,2755.08,3,4,2,Media,1
+RES-0805,324,Ciudad,Agencia en línea,Sin depósito,2,0,7,2899.65,2,4,0,Media,1
+RES-0806,263,Ciudad,Sitio web,Sin depósito,3,2,13,1109.12,4,4,1,Baja,0
+RES-0807,359,Ciudad,Agencia física,Sin depósito,4,0,10,3059.5,1,4,2,Baja,0
+RES-0808,188,Resort,Empresa,Reembolsable,1,0,11,3489.46,2,0,0,Alta,1
+RES-0809,127,Resort,Empresa,Reembolsable,4,1,2,1824.02,0,4,0,Media,1
+RES-0810,213,Ciudad,Sitio web,Sin depósito,1,2,11,990.39,3,1,1,Media,0
+RES-0811,359,Ciudad,Empresa,Reembolsable,2,2,12,2191,0,2,1,Media,1
+RES-0812,71,Ciudad,Agencia física,Reembolsable,3,1,11,3141.41,4,3,2,Alta,0
+RES-0813,97,Ciudad,Sitio web,No reembolsable,2,1,10,3485.55,4,3,0,Media,0
+RES-0814,227,Ciudad,Empresa,Reembolsable,4,3,8,1408.03,3,0,1,Alta,0
+RES-0815,143,Ciudad,Empresa,No reembolsable,3,0,3,2800.73,0,2,0,Media,0
+RES-0816,325,Ciudad,Sitio web,No reembolsable,2,1,2,2436.2,2,0,1,Baja,0
+RES-0817,21,Ciudad,Agencia en línea,Sin depósito,4,3,12,2108.33,5,0,0,Media,0
+RES-0818,302,Resort,Agencia en línea,Sin depósito,2,0,7,2693.45,1,1,0,Baja,1
+RES-0819,268,Resort,Agencia en línea,Reembolsable,4,0,3,2838.9,5,2,1,Alta,1
+RES-0820,107,Resort,Agencia física,Sin depósito,3,1,9,2136.5,1,3,0,Media,0
+RES-0821,224,Resort,Empresa,Sin depósito,4,0,10,3337.76,0,0,0,Alta,0
+RES-0822,161,Ciudad,Agencia en línea,No reembolsable,1,2,14,2572.54,5,3,1,Alta,0
+RES-0823,305,Ciudad,Agencia física,Sin depósito,2,2,14,2359.24,1,3,0,Media,1
+RES-0824,13,Ciudad,Empresa,No reembolsable,2,1,14,1807.28,1,2,1,Media,0
+RES-0825,187,Resort,Empresa,No reembolsable,1,3,14,3482.05,2,1,0,Baja,0
+RES-0826,128,Ciudad,Empresa,No reembolsable,4,0,6,2831.65,5,3,0,Baja,0
+RES-0827,362,Resort,Sitio web,Reembolsable,1,3,4,2574.83,3,1,1,Media,0
+RES-0828,270,Ciudad,Agencia en línea,Reembolsable,2,3,7,2081.7,1,3,1,Media,1
+RES-0829,45,Resort,Agencia física,Reembolsable,2,3,1,3151.96,1,3,1,Media,1
+RES-0830,101,Resort,Sitio web,No reembolsable,4,0,7,2478.63,5,1,2,Alta,0
+RES-0831,290,Resort,Empresa,Reembolsable,3,1,2,3497.69,0,1,0,Alta,1
+RES-0832,365,Resort,Agencia física,Reembolsable,3,3,9,4467.32,0,2,0,Baja,0
+RES-0833,5,Resort,Sitio web,Sin depósito,4,0,9,5185.3,2,0,2,Alta,0
+RES-0834,242,Resort,Agencia en línea,Sin depósito,4,2,2,1932.52,3,3,1,Alta,0
+RES-0835,81,Resort,Agencia en línea,No reembolsable,1,2,13,2120.41,5,3,0,Baja,0
+RES-0836,326,Ciudad,Agencia física,No reembolsable,3,2,4,2040.33,1,4,1,Alta,1
+RES-0837,135,Ciudad,Agencia física,No reembolsable,3,1,5,2059.39,3,3,1,Alta,0
+RES-0838,139,Resort,Agencia física,No reembolsable,3,1,9,1775.39,2,3,1,Media,0
+RES-0839,308,Ciudad,Agencia en línea,Reembolsable,1,2,8,650,5,4,1,Alta,0
+RES-0840,251,Resort,Sitio web,Sin depósito,3,0,1,1794.7,0,0,1,Alta,0
+RES-0841,150,Resort,Agencia en línea,Reembolsable,3,2,13,3522.66,3,2,0,Baja,0
+RES-0842,248,Resort,Empresa,No reembolsable,3,3,9,1912.02,3,0,1,Alta,0
+RES-0843,57,Ciudad,Agencia física,Sin depósito,3,3,8,650,3,1,2,Baja,0
+RES-0844,306,Ciudad,Agencia en línea,No reembolsable,3,0,10,2382.69,2,2,0,Baja,0
+RES-0845,352,Resort,Sitio web,Sin depósito,1,3,3,4009.65,0,1,0,Baja,0
+RES-0846,350,Ciudad,Sitio web,Sin depósito,3,3,1,2276.97,3,3,1,Alta,1
+RES-0847,167,Ciudad,Agencia física,Sin depósito,3,2,9,1885.52,3,3,0,Media,0
+RES-0848,180,Resort,Sitio web,No reembolsable,1,1,9,2916.85,3,0,0,Alta,1
+RES-0849,245,Ciudad,Sitio web,Reembolsable,3,1,4,2887.85,3,1,0,Alta,0
+RES-0850,115,Ciudad,Empresa,No reembolsable,4,3,1,1506.47,4,1,0,Alta,0
+RES-0851,277,Resort,Empresa,Reembolsable,4,1,7,1107.61,2,4,0,Alta,0
+RES-0852,14,Resort,Agencia en línea,Reembolsable,3,3,13,3261.31,3,0,1,Baja,0
+RES-0853,195,Resort,Sitio web,Sin depósito,2,1,8,3823.32,5,3,3,Media,1
+RES-0854,365,Resort,Sitio web,Sin depósito,2,2,2,2823.87,1,2,1,Alta,0
+RES-0855,229,Ciudad,Sitio web,Reembolsable,2,3,5,2239.55,0,3,1,Baja,0
+RES-0856,169,Ciudad,Sitio web,Sin depósito,2,1,14,1549.03,2,4,0,Alta,0
+RES-0857,275,Ciudad,Empresa,Sin depósito,2,3,9,3536.99,4,2,2,Baja,1
+RES-0858,36,Resort,Agencia física,Sin depósito,1,1,10,1939.34,4,1,0,Baja,0
+RES-0859,363,Resort,Agencia física,Reembolsable,3,1,6,3065.38,4,4,2,Baja,1
+RES-0860,193,Resort,Sitio web,No reembolsable,1,3,10,4252.97,1,2,0,Media,0
+RES-0861,9,Resort,Sitio web,No reembolsable,1,2,7,4644.52,5,1,1,Media,0
+RES-0862,74,Ciudad,Agencia en línea,Sin depósito,2,0,10,2789.86,4,0,2,Alta,0
+RES-0863,104,Resort,Agencia en línea,No reembolsable,3,1,9,1187.9,5,2,1,Baja,0
+RES-0864,13,Resort,Agencia en línea,Reembolsable,3,3,3,1791.47,3,1,0,Alta,0
+RES-0865,302,Resort,Agencia en línea,Sin depósito,1,0,7,3655.3,5,2,0,Alta,1
+RES-0866,312,Resort,Sitio web,Sin depósito,1,3,4,3564.1,5,0,0,Media,0
+RES-0867,155,Resort,Agencia en línea,Reembolsable,1,2,2,1653.42,0,4,0,Baja,0
+RES-0868,253,Ciudad,Agencia en línea,Reembolsable,3,2,6,1341.65,3,3,0,Media,1
+RES-0869,107,Ciudad,Empresa,No reembolsable,2,0,7,2114.69,5,2,2,Alta,0
+RES-0870,344,Ciudad,Agencia en línea,Sin depósito,1,0,14,2227.87,5,1,1,Baja,0
+RES-0871,207,Resort,Sitio web,Sin depósito,2,3,12,4714.62,5,1,0,Baja,1
+RES-0872,125,Ciudad,Empresa,No reembolsable,2,2,4,1921.1,2,0,0,Baja,0
+RES-0873,277,Ciudad,Agencia en línea,No reembolsable,1,3,8,2197.46,2,3,1,Media,0
+RES-0874,172,Ciudad,Sitio web,Sin depósito,4,2,4,2850.39,5,0,1,Alta,0
+RES-0875,222,Ciudad,Agencia en línea,Sin depósito,1,1,7,1540.92,0,1,2,Media,1
+RES-0876,215,Resort,Agencia en línea,Sin depósito,4,1,12,4423.24,5,1,1,Media,0
+RES-0877,10,Resort,Empresa,Reembolsable,3,2,6,3406.49,0,1,0,Media,0
+RES-0878,104,Ciudad,Agencia en línea,Reembolsable,2,2,7,2034.26,1,1,2,Baja,1
+RES-0879,309,Ciudad,Empresa,Reembolsable,2,0,3,2394.86,0,3,0,Alta,0
+RES-0880,21,Ciudad,Empresa,No reembolsable,1,3,4,1236.81,1,2,1,Alta,0
+RES-0881,350,Ciudad,Empresa,No reembolsable,2,3,9,2870.46,0,0,2,Alta,0
+RES-0882,256,Resort,Agencia en línea,Reembolsable,3,3,9,4319.82,2,3,1,Media,1
+RES-0883,110,Ciudad,Empresa,No reembolsable,1,1,1,4100.44,4,1,0,Baja,0
+RES-0884,308,Resort,Sitio web,No reembolsable,4,3,9,3355.47,2,1,0,Baja,0
+RES-0885,355,Resort,Agencia en línea,Sin depósito,4,3,7,2873.13,4,3,2,Alta,0
+RES-0886,40,Ciudad,Agencia en línea,Reembolsable,2,3,11,1009.83,4,4,1,Media,0
+RES-0887,226,Ciudad,Agencia en línea,Sin depósito,4,0,8,3387.29,0,2,0,Baja,0
+RES-0888,308,Ciudad,Empresa,Reembolsable,1,2,12,3588.68,5,3,0,Alta,1
+RES-0889,179,Resort,Sitio web,Sin depósito,3,1,11,2098.39,4,4,0,Baja,0
+RES-0890,17,Resort,Sitio web,Sin depósito,2,1,14,3872.35,3,3,0,Media,0
+RES-0891,185,Ciudad,Agencia en línea,No reembolsable,2,2,6,4430.32,4,1,2,Baja,0
+RES-0892,36,Resort,Empresa,Sin depósito,3,0,5,2838.58,3,3,1,Media,0
+RES-0893,173,Ciudad,Empresa,Sin depósito,4,0,6,2295.95,3,3,1,Media,0
+RES-0894,91,Ciudad,Agencia física,Sin depósito,3,1,11,2400.8,1,3,1,Alta,0
+RES-0895,66,Ciudad,Empresa,Sin depósito,1,2,4,2135.8,5,1,0,Baja,0
+RES-0896,112,Ciudad,Agencia física,No reembolsable,3,2,10,1644.25,0,4,0,Baja,0
+RES-0897,196,Resort,Agencia en línea,No reembolsable,3,1,10,4262.19,5,4,2,Alta,0
+RES-0898,255,Resort,Agencia física,Sin depósito,1,2,2,4717.4,5,2,0,Media,0
+RES-0899,103,Ciudad,Sitio web,Reembolsable,4,2,10,650,0,0,0,Alta,0
+RES-0900,20,Ciudad,Agencia física,Reembolsable,2,3,10,1910.43,2,0,2,Alta,0
+RES-0901,120,Ciudad,Empresa,Sin depósito,2,2,6,2091.11,4,3,1,Baja,0
+RES-0902,262,Ciudad,Agencia física,Reembolsable,4,0,8,1956.35,3,1,0,Baja,0
+RES-0903,46,Resort,Agencia en línea,No reembolsable,2,2,2,3096.04,5,3,2,Baja,0
+RES-0904,212,Resort,Agencia en línea,Reembolsable,2,3,1,3522.81,4,3,1,Media,0
+RES-0905,54,Ciudad,Sitio web,Reembolsable,1,1,10,1898.45,2,2,1,Media,0
+RES-0906,195,Resort,Agencia en línea,Reembolsable,3,0,12,3252.97,4,4,1,Media,0
+RES-0907,151,Ciudad,EMPRESA,No reembolsable,4,3,6,,0,0,1,Alta,0
+RES-0908,44,Resort,Agencia en línea,Reembolsable,3,3,13,4589.65,5,2,0,Alta,1
+RES-0909,31,Resort,Sitio web,No reembolsable,3,2,14,2505.83,5,4,0,Alta,0
+RES-0910,97,Ciudad,Empresa,Reembolsable,2,2,11,2622.59,4,2,0,Media,0
+RES-0911,70,Ciudad,Empresa,No reembolsable,3,1,9,2170.64,4,1,2,Alta,0
+RES-0912,77,Ciudad,Empresa,Sin depósito,4,1,8,4392.35,1,2,0,Baja,0
+RES-0913,99,Ciudad,Sitio web,Reembolsable,1,3,4,1357.94,1,4,2,Alta,1
+RES-0914,48,Ciudad,Empresa,Sin depósito,2,2,4,1137.63,0,1,1,Baja,0
+RES-0915,237,Ciudad,Sitio web,Sin depósito,2,0,13,3475.74,4,3,0,Alta,0
+RES-0916,64,Ciudad,Agencia física,Sin depósito,3,2,12,2271.03,5,3,0,Media,0
+RES-0917,23,Ciudad,Agencia en línea,No reembolsable,2,1,9,2447.76,1,0,1,Baja,0
+RES-0918,74,Ciudad,Sitio web,No reembolsable,1,1,11,650,1,0,1,Media,0
+RES-0919,319,Ciudad,Empresa,Sin depósito,1,2,13,1358.34,5,3,0,Baja,0
+RES-0920,217,Ciudad,Empresa,Reembolsable,4,2,12,2200.65,0,0,0,Alta,0
+RES-0921,58,Resort,Sitio web,Sin depósito,2,0,13,2907.64,5,3,1,Alta,1
+RES-0922,55,Ciudad,Sitio web,Sin depósito,1,0,6,1393.6,0,0,0,Alta,0
+RES-0923,19,Resort,Empresa,No reembolsable,3,0,11,3360.47,1,2,1,Baja,0
+RES-0924,64,Ciudad,Empresa,Sin depósito,3,2,12,1615.99,0,3,1,Media,0
+RES-0925,17,Ciudad,Sitio web,No reembolsable,1,0,10,3215.22,5,2,1,Baja,0
+RES-0926,68,Ciudad,Agencia en línea,Reembolsable,4,2,14,2022.11,0,0,0,Alta,0
+RES-0927,49,Resort,Sitio web,No reembolsable,3,1,9,2847.77,1,0,1,Baja,0
+RES-0928,180,Resort,Empresa,Sin depósito,2,0,8,3500.4,4,2,0,Baja,0
+RES-0929,88,Resort,Agencia en línea,Reembolsable,1,2,9,1459.85,3,0,1,Alta,0
+RES-0930,47,Resort,Agencia física,No reembolsable,4,0,11,2919.57,3,4,1,Baja,0
+RES-0931,78,Resort,Agencia física,No reembolsable,1,2,14,3154.98,0,4,1,Media,0
+RES-0932,100,Resort,Agencia en línea,Sin depósito,4,0,4,2881.33,3,4,0,Alta,0
+RES-0933,253,Ciudad,Agencia en línea,Sin depósito,2,0,2,763.75,1,3,2,Alta,0
+RES-0934,236,Ciudad,Empresa,Reembolsable,1,3,1,1855.39,0,4,0,Media,1
+RES-0935,355,Ciudad,Empresa,Sin depósito,2,1,11,1015.03,0,4,0,Alta,0
+RES-0936,99,Ciudad,Empresa,No reembolsable,2,1,2,2547.71,2,1,0,Media,0
+RES-0937,250,Resort,Sitio web,Sin depósito,1,3,11,3789.98,3,0,0,Media,0
+RES-0938,248,Ciudad,Sitio web,Sin depósito,2,2,11,3477.9,4,3,1,Media,0
+RES-0939,59,Ciudad,Empresa,No reembolsable,2,2,14,713.5,5,2,0,Baja,0
+RES-0940,301,Ciudad,Agencia física,Sin depósito,3,0,3,2664.31,0,2,0,Baja,1
+RES-0941,345,Ciudad,Agencia en línea,Reembolsable,4,2,5,2338.51,3,2,1,Media,0
+RES-0942,176,Resort,Agencia en línea,No reembolsable,2,0,1,3435.42,0,1,0,Alta,0
+RES-0943,174,Resort,Agencia física,No reembolsable,1,3,11,2531.89,3,2,0,Alta,0
+RES-0944,235,Resort,sitio web,No reembolsable,4,3,14,3307.27,1,0,1,Baja,0
+RES-0945,338,Ciudad,Sitio web,Sin depósito,1,2,12,1171.08,4,0,0,Baja,1
+RES-0946,313,Resort,Empresa,No reembolsable,1,2,7,3675.8,3,3,1,Media,0
+RES-0947,277,Ciudad,Sitio web,Reembolsable,4,3,11,1154.64,4,2,1,Alta,0
+RES-0948,327,Resort,Empresa,Reembolsable,2,3,6,3593.51,3,3,1,Baja,0
+RES-0949,231,Resort,Agencia física,No reembolsable,2,1,5,3929.43,2,0,1,Alta,0
+RES-0950,327,Resort,Empresa,Reembolsable,1,1,7,3721.36,4,3,0,Alta,0
+RES-0951,229,Ciudad,Agencia física,Reembolsable,2,2,12,2156.51,2,3,0,Baja,0
+RES-0952,62,Resort,Agencia en línea,No reembolsable,1,0,7,3899.84,2,3,2,Baja,0
+RES-0953,145,Resort,Agencia en línea,Reembolsable,2,3,10,2286.39,0,0,0,Alta,1
+RES-0954,314,Ciudad,Empresa,No reembolsable,2,0,6,2445.86,5,2,1,Baja,0
+RES-0955,306,Ciudad,Agencia en línea,No reembolsable,2,0,8,944.45,3,4,1,Media,0
+RES-0956,153,Resort,Empresa,Sin depósito,4,0,2,4669.77,4,0,1,Alta,1
+RES-0957,187,Ciudad,Agencia en línea,Sin depósito,2,3,10,1780.55,1,0,0,Alta,0
+RES-0958,219,Resort,Agencia física,Sin depósito,3,1,7,2340.1,0,0,0,Baja,0
+RES-0959,205,Ciudad,Agencia física,No reembolsable,3,1,7,1137.43,0,2,0,Alta,0
+RES-0960,93,Ciudad,Agencia en línea,Reembolsable,2,2,4,3801.26,2,0,0,Alta,0
+RES-0961,9,Resort,Empresa,No reembolsable,3,2,5,3060.51,1,0,0,Baja,0
+RES-0962,274,Resort,Empresa,Sin depósito,4,3,14,2230.93,0,2,0,Baja,0
+RES-0963,129,Ciudad,Agencia en línea,Sin depósito,4,2,5,954.49,0,0,2,Baja,1
+RES-0964,300,Ciudad,Agencia en línea,No reembolsable,2,0,4,650,2,1,0,Media,0
+RES-0965,63,Ciudad,Agencia física,No reembolsable,4,2,12,2624.3,0,0,1,Media,0
+RES-0966,35,Resort,Sitio web,Sin depósito,3,2,2,3307.77,4,3,3,Baja,0
+RES-0967,170,Resort,Sitio web,No reembolsable,2,1,9,3515.1,4,0,1,Media,0
+RES-0968,105,Ciudad,Sitio web,Reembolsable,4,2,13,1945.43,5,4,0,Baja,0
+RES-0969,310,Ciudad,Empresa,Sin depósito,1,2,7,2455.37,0,0,1,Baja,0
+RES-0970,217,Resort,Sitio web,No reembolsable,1,0,12,5655,0,3,0,Alta,0
+RES-0971,93,Resort,Agencia en línea,Sin depósito,4,2,13,2157.11,0,2,0,Baja,0
+RES-0972,232,Resort,Empresa,Sin depósito,3,1,10,2008.48,2,2,0,Baja,1
+RES-0973,164,Ciudad,Empresa,No reembolsable,1,3,8,1581.47,1,2,0,Alta,0
+RES-0974,98,Resort,Agencia en línea,Reembolsable,2,3,8,1374.31,0,4,0,Media,0
+RES-0975,17,Ciudad,Agencia en línea,Sin depósito,1,3,6,2559.92,0,3,0,Alta,0
+RES-0976,183,Resort,Empresa,No reembolsable,3,0,3,3393.33,5,1,0,Alta,0
+RES-0977,249,Ciudad,Sitio web,Sin depósito,4,3,9,2259.74,0,2,0,Alta,0
+RES-0978,199,Ciudad,Sitio web,No reembolsable,1,2,10,2471.4,0,2,1,Alta,0
+RES-0979,93,Ciudad,Empresa,Reembolsable,4,3,12,3705.86,5,4,1,Alta,0
+RES-0980,127,Resort,Agencia en línea,Reembolsable,4,0,5,3611.34,4,3,1,Alta,0
+RES-0981,45,Ciudad,Sitio web,No reembolsable,4,1,5,2285.74,3,3,0,Media,0
+RES-0982,271,Ciudad,Agencia en línea,No reembolsable,1,2,12,2512.84,2,2,0,Alta,0
+RES-0983,229,Resort,Agencia en línea,Reembolsable,4,2,7,3897.35,3,4,0,Baja,0
+RES-0984,94,Resort,Agencia en línea,Sin depósito,2,1,10,4945.03,5,4,1,Baja,0
+RES-0985,241,Ciudad,Sitio web,Reembolsable,4,0,8,2290.15,2,1,0,Alta,0
+RES-0986,287,Ciudad,Sitio web,No reembolsable,1,2,4,2348.04,2,3,0,Alta,0
+RES-0987,319,Resort,Agencia en línea,Sin depósito,1,3,8,899.94,0,0,0,Baja,0
+RES-0988,13,Ciudad,Agencia en línea,Sin depósito,3,1,1,2840.65,1,1,1,Baja,1
+RES-0989,36,Resort,Agencia física,No reembolsable,3,2,2,4146.83,4,4,0,Media,0
+RES-0990,133,Ciudad,Agencia física,Reembolsable,2,3,6,2323.43,0,4,0,Alta,0
+RES-0991,36,Ciudad,Agencia en línea,Sin depósito,4,1,3,2771.43,3,4,0,Media,0
+RES-0992,183,Resort,Empresa,No reembolsable,3,2,2,3299.43,5,0,0,Baja,0
+RES-0993,203,Resort,Sitio web,Sin depósito,4,0,8,2459.73,0,3,0,Baja,0
+RES-0994,24,Ciudad,Agencia en línea,Reembolsable,4,0,9,2480.51,0,4,0,Baja,0
+RES-0952,62,Resort,Agencia en línea,No reembolsable,1,0,7,3899.84,2,3,2,Baja,0
+RES-0370,198,Resort,Agencia en línea,No reembolsable,2,3,12,2260.12,1,0,0,Baja,0
+RES-0437,201,Ciudad,Sitio web,Reembolsable,4,2,5,2800.35,2,3,1,Media,0
+RES-0279,142,Ciudad,Agencia física,No reembolsable,2,3,12,3217.73,3,0,0,Media,0
+RES-0871,207,Resort,Sitio web,Sin depósito,2,3,12,4714.62,5,1,0,Baja,1
+RES-0923,19,Resort,Empresa,No reembolsable,3,0,11,3360.47,1,2,1,Baja,0
